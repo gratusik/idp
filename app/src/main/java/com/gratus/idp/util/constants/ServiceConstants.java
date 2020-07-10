@@ -13,5 +13,4 @@ public interface ServiceConstants {
     String PATH_REPORT_URL = "api/pathReport";
 
 
-
 }
