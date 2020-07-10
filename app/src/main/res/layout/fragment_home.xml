@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:bind="http://schemas.android.com/apk/res-auto">
+    <data>
+        <variable
+            name="homeViewModel"
+            type="com.gratus.idp.viewModel.fragment.HomeViewModel"/>
+    </data>
+    <RelativeLayout
+        android:id="@+id/parent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:id="@+id/top"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/app_color"
+            android:elevation="50dp">
+            <RelativeLayout
+                android:id="@+id/filterBt"
+                android:layout_width="40dp"
+                android:layout_height="50dp"
+                android:layout_below="@+id/editRl"
+                android:onClick="@{(v) -> homeViewModel.onAction(true)}"
+                android:background="@drawable/filter"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp" />
+            <ImageView
+                android:id="@+id/logo"
+                android:layout_width="70dp"
+                android:layout_height="60dp"
+                android:src="@drawable/app_logo"
+                android:layout_marginTop="10dp"/>
+            <TextView
+                android:id="@+id/filterTv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/logo"
+                android:layout_toLeftOf="@+id/filterBt"
+                android:layout_centerInParent="true"
+                android:padding="8dp"
+                android:textSize="20dp"
+                android:text="@{homeViewModel.filterRequest.startdate+'-'+homeViewModel.filterRequest.enddate+'\n'+homeViewModel.filterRequest.starthour+'-'+homeViewModel.filterRequest.endhour}"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:ellipsize="end"/>
+        </RelativeLayout>
+        <com.google.android.gms.maps.MapView
+            android:id="@+id/map"
+            android:name="com.google.android.gms.maps.MapFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="55dp"
+            />
+        <include android:id="@+id/secondary"
+            layout="@layout/filter_home"
+            bind:secondaryHomeViewModel="@{homeViewModel}"/>
+    </RelativeLayout>
+</layout>

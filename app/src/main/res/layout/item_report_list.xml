@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <data>
+        <variable
+            name="repostItemListViewModel"
+            type="com.gratus.idp.viewModel.adapter.RepostItemListViewModel"/>
+    </data>
+    <RelativeLayout
+        android:id="@+id/parent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:onClick="@{() -> repostItemListViewModel.onItemClick()}"
+        android:elevation="10dp">
+        <RelativeLayout
+            android:id="@+id/item"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <RelativeLayout
+            android:id="@+id/count"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:src="@drawable/app_logo"
+            android:layout_margin="8dp"
+            android:background="@{repostItemListViewModel.cyclePathNew.drawable}">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@{Integer.toString(repostItemListViewModel.cyclePathNew.count)}"
+                android:singleLine="true"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:textSize="30dp"
+                android:layout_centerInParent="true"/>
+        </RelativeLayout>
+        <TextView
+            android:id="@+id/streetName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/count"
+            android:padding="8dp"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:singleLine="true"
+            android:ellipsize="end"
+            android:text="@{repostItemListViewModel.cyclePathNew.properties.streetName.empty? @string/nostreet:repostItemListViewModel.cyclePathNew.properties.streetName}"
+            android:textColor="@color/black"/>
+        <TextView
+            android:id="@+id/category"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/count"
+            android:layout_below="@+id/streetName"
+            android:singleLine="true"
+            android:textColor="@{repostItemListViewModel.cyclePathNew.existing ? @color/pink : @color/violet}"
+            android:text="@{repostItemListViewModel.cyclePathNew.existing ? @string/existing : @string/unexisting}"
+            android:padding="4dp"
+            android:layout_marginLeft="4dp"/>
+        </RelativeLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_below="@+id/item"
+            android:background="@color/black"/>
+    </RelativeLayout>
+</layout>

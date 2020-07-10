@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="app_color">#03DAC5</color>
+    <color name="login_bt_color">#E0E0E0</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#F4AD08</color>
+    <color name="yellow_op">#D7F4AD08</color>
+    <color name="grey_sub_text">#8F8D8D</color>
+    <color name="grey">#C9E2DEDE</color>
+    <color name="red">#E83B40</color>
+    <color name="orange">#FC5935</color>
+    <color name="yellow1">#FEE92E</color>
+    <color name="blue">#1497F1</color>
+    <color name="green">#7ABB3A</color>
+    <color name="pink">#E42667</color>
+    <color name="violet">#303AA6</color>
+</resources>
