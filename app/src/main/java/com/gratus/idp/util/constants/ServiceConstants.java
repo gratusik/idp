@@ -11,4 +11,5 @@ public interface ServiceConstants {
     String DOWNLOAD_URL = "api/downloadFile/cycle_path_data.json";
     String EDIT_PROFILE_URL_U = "api/editProfileUpdate";
     String PATH_REPORT_URL = "api/pathReport";
+
 }
