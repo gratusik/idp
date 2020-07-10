@@ -8,6 +8,6 @@ public class AppConstants {
     public static final String MALE  = "MALE";
     public static final String FEMALE  = "FEMALE";
     public static final String FRAGMENT_OTHER = "FRAGMENT_OTHER";
-    public static final String FRAGMENT_HOME = "FRAGMENT+HOME";
+    public static final String FRAGMENT_HOME = "FRAGMENT_HOME";
 
 }
