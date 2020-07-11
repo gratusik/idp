@@ -173,4 +173,5 @@ public class SplashViewModel extends BaseViewModel {
                     false, NETWORK_LOST_EXP));
         }
     }
+
 }
