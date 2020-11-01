@@ -1,0 +1,5122 @@
+[
+{ 
+    "_id" : ObjectId("5ea376c4a486045e7eff470d"), 
+    "cyclepath_id" : NumberInt(84), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea376c6a486045e7eff4718"), 
+    "cyclepath_id" : NumberInt(205), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea376c6a486045e7eff4719"), 
+    "cyclepath_id" : NumberInt(206), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea376c6a486045e7eff471a"), 
+    "cyclepath_id" : NumberInt(207), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea376c6a486045e7eff471b"), 
+    "cyclepath_id" : NumberInt(208), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea376c6a486045e7eff471c"), 
+    "cyclepath_id" : NumberInt(209), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea376c6a486045e7eff471d"), 
+    "cyclepath_id" : NumberInt(210), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea376c6a486045e7eff471e"), 
+    "cyclepath_id" : NumberInt(211), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea376c6a486045e7eff471f"), 
+    "cyclepath_id" : NumberInt(212), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea376c6a486045e7eff4720"), 
+    "cyclepath_id" : NumberInt(213), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea376c6a486045e7eff4721"), 
+    "cyclepath_id" : NumberInt(214), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea376cb9edda76b5e4fef6d"), 
+    "cyclepath_id" : NumberInt(78), 
+    "tripID" : "5e9abb81ed1548dd20d3a69d", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:07", 
+    "endTime" : "08:44:45"
+},
+{ 
+    "_id" : ObjectId("5ea376cb9edda76b5e4fef6e"), 
+    "cyclepath_id" : NumberInt(27), 
+    "tripID" : "5e9abb81ed1548dd20d3a69d", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:07", 
+    "endTime" : "08:44:45"
+},
+{ 
+    "_id" : ObjectId("5ea376cd9edda76b5e4fef78"), 
+    "cyclepath_id" : NumberInt(215), 
+    "tripID" : "5e9abb81ed1548dd20d3a69d", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:07", 
+    "endTime" : "08:44:45"
+},
+{ 
+    "_id" : ObjectId("5ea376cd9edda76b5e4fef79"), 
+    "cyclepath_id" : NumberInt(216), 
+    "tripID" : "5e9abb81ed1548dd20d3a69d", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:07", 
+    "endTime" : "08:44:45"
+},
+{ 
+    "_id" : ObjectId("5ea376cd9edda76b5e4fef7a"), 
+    "cyclepath_id" : NumberInt(217), 
+    "tripID" : "5e9abb81ed1548dd20d3a69d", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:07", 
+    "endTime" : "08:44:45"
+},
+{ 
+    "_id" : ObjectId("5ea376cd9edda76b5e4fef7b"), 
+    "cyclepath_id" : NumberInt(218), 
+    "tripID" : "5e9abb81ed1548dd20d3a69d", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:07", 
+    "endTime" : "08:44:45"
+},
+{ 
+    "_id" : ObjectId("5ea376cd9edda76b5e4fef7c"), 
+    "cyclepath_id" : NumberInt(219), 
+    "tripID" : "5e9abb81ed1548dd20d3a69d", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:07", 
+    "endTime" : "08:44:45"
+},
+{ 
+    "_id" : ObjectId("5ea376cd9edda76b5e4fef7d"), 
+    "cyclepath_id" : NumberInt(220), 
+    "tripID" : "5e9abb81ed1548dd20d3a69d", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:07", 
+    "endTime" : "08:44:45"
+},
+{ 
+    "_id" : ObjectId("5ea376cd9edda76b5e4fef7e"), 
+    "cyclepath_id" : NumberInt(221), 
+    "tripID" : "5e9abb81ed1548dd20d3a69d", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:07", 
+    "endTime" : "08:44:45"
+},
+{ 
+    "_id" : ObjectId("5ea376cd9edda76b5e4fef7f"), 
+    "cyclepath_id" : NumberInt(222), 
+    "tripID" : "5e9abb81ed1548dd20d3a69d", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:07", 
+    "endTime" : "08:44:45"
+},
+{ 
+    "_id" : ObjectId("5ea376cd9edda76b5e4fef80"), 
+    "cyclepath_id" : NumberInt(223), 
+    "tripID" : "5e9abb81ed1548dd20d3a69d", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:07", 
+    "endTime" : "08:44:45"
+},
+{ 
+    "_id" : ObjectId("5ea37720e22f6b4aef0ea548"), 
+    "cyclepath_id" : NumberInt(30), 
+    "tripID" : "5e83bbbfce8af339f2c2f0e8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:53:01", 
+    "endTime" : "22:09:09"
+},
+{ 
+    "_id" : ObjectId("5ea37720e22f6b4aef0ea549"), 
+    "cyclepath_id" : NumberInt(14), 
+    "tripID" : "5e83bbbfce8af339f2c2f0e8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:53:01", 
+    "endTime" : "22:09:09"
+},
+{ 
+    "_id" : ObjectId("5ea37723e22f6b4aef0ea550"), 
+    "cyclepath_id" : NumberInt(224), 
+    "tripID" : "5e83bbbfce8af339f2c2f0e8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:53:01", 
+    "endTime" : "22:09:09"
+},
+{ 
+    "_id" : ObjectId("5ea37723e22f6b4aef0ea551"), 
+    "cyclepath_id" : NumberInt(225), 
+    "tripID" : "5e83bbbfce8af339f2c2f0e8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:53:01", 
+    "endTime" : "22:09:09"
+},
+{ 
+    "_id" : ObjectId("5ea37723e22f6b4aef0ea552"), 
+    "cyclepath_id" : NumberInt(226), 
+    "tripID" : "5e83bbbfce8af339f2c2f0e8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:53:01", 
+    "endTime" : "22:09:09"
+},
+{ 
+    "_id" : ObjectId("5ea37723e22f6b4aef0ea553"), 
+    "cyclepath_id" : NumberInt(227), 
+    "tripID" : "5e83bbbfce8af339f2c2f0e8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:53:01", 
+    "endTime" : "22:09:09"
+},
+{ 
+    "_id" : ObjectId("5ea37723e22f6b4aef0ea554"), 
+    "cyclepath_id" : NumberInt(228), 
+    "tripID" : "5e83bbbfce8af339f2c2f0e8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:53:01", 
+    "endTime" : "22:09:09"
+},
+{ 
+    "_id" : ObjectId("5ea37723e22f6b4aef0ea555"), 
+    "cyclepath_id" : NumberInt(229), 
+    "tripID" : "5e83bbbfce8af339f2c2f0e8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:53:01", 
+    "endTime" : "22:09:09"
+},
+{ 
+    "_id" : ObjectId("5ea3773ceefc670bb7de7385"), 
+    "cyclepath_id" : NumberInt(224), 
+    "tripID" : "5e83bad1ce8af339f2c2f0cb", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:03", 
+    "endTime" : "21:55:49"
+},
+{ 
+    "_id" : ObjectId("5ea3773ceefc670bb7de7386"), 
+    "cyclepath_id" : NumberInt(104), 
+    "tripID" : "5e83bad1ce8af339f2c2f0cb", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:03", 
+    "endTime" : "21:55:49"
+},
+{ 
+    "_id" : ObjectId("5ea3773ceefc670bb7de7387"), 
+    "cyclepath_id" : NumberInt(94), 
+    "tripID" : "5e83bad1ce8af339f2c2f0cb", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:03", 
+    "endTime" : "21:55:49"
+},
+{ 
+    "_id" : ObjectId("5ea3773deefc670bb7de738c"), 
+    "cyclepath_id" : NumberInt(230), 
+    "tripID" : "5e83bad1ce8af339f2c2f0cb", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:03", 
+    "endTime" : "21:55:49"
+},
+{ 
+    "_id" : ObjectId("5ea3773deefc670bb7de738d"), 
+    "cyclepath_id" : NumberInt(231), 
+    "tripID" : "5e83bad1ce8af339f2c2f0cb", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:03", 
+    "endTime" : "21:55:49"
+},
+{ 
+    "_id" : ObjectId("5ea3773deefc670bb7de738e"), 
+    "cyclepath_id" : NumberInt(232), 
+    "tripID" : "5e83bad1ce8af339f2c2f0cb", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:03", 
+    "endTime" : "21:55:49"
+},
+{ 
+    "_id" : ObjectId("5ea3773deefc670bb7de738f"), 
+    "cyclepath_id" : NumberInt(233), 
+    "tripID" : "5e83bad1ce8af339f2c2f0cb", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:03", 
+    "endTime" : "21:55:49"
+},
+{ 
+    "_id" : ObjectId("5ea378035bd13ae71af59bcc"), 
+    "cyclepath_id" : NumberInt(78), 
+    "tripID" : "5e83bcdace8af339f2c2f10c", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:44", 
+    "endTime" : "22:17:20"
+},
+{ 
+    "_id" : ObjectId("5ea378035bd13ae71af59bcd"), 
+    "cyclepath_id" : NumberInt(215), 
+    "tripID" : "5e83bcdace8af339f2c2f10c", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:44", 
+    "endTime" : "22:17:20"
+},
+{ 
+    "_id" : ObjectId("5ea378035bd13ae71af59bce"), 
+    "cyclepath_id" : NumberInt(205), 
+    "tripID" : "5e83bcdace8af339f2c2f10c", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:44", 
+    "endTime" : "22:17:20"
+},
+{ 
+    "_id" : ObjectId("5ea378035bd13ae71af59bcf"), 
+    "cyclepath_id" : NumberInt(85), 
+    "tripID" : "5e83bcdace8af339f2c2f10c", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:44", 
+    "endTime" : "22:17:20"
+},
+{ 
+    "_id" : ObjectId("5ea378035bd13ae71af59bd0"), 
+    "cyclepath_id" : NumberInt(213), 
+    "tripID" : "5e83bcdace8af339f2c2f10c", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:44", 
+    "endTime" : "22:17:20"
+},
+{ 
+    "_id" : ObjectId("5ea378035bd13ae71af59bd1"), 
+    "cyclepath_id" : NumberInt(83), 
+    "tripID" : "5e83bcdace8af339f2c2f10c", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:44", 
+    "endTime" : "22:17:20"
+},
+{ 
+    "_id" : ObjectId("5ea378075bd13ae71af59be5"), 
+    "cyclepath_id" : NumberInt(234), 
+    "tripID" : "5e83bcdace8af339f2c2f10c", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:44", 
+    "endTime" : "22:17:20"
+},
+{ 
+    "_id" : ObjectId("5ea378075bd13ae71af59be6"), 
+    "cyclepath_id" : NumberInt(235), 
+    "tripID" : "5e83bcdace8af339f2c2f10c", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:44", 
+    "endTime" : "22:17:20"
+},
+{ 
+    "_id" : ObjectId("5ea378075bd13ae71af59be7"), 
+    "cyclepath_id" : NumberInt(236), 
+    "tripID" : "5e83bcdace8af339f2c2f10c", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:44", 
+    "endTime" : "22:17:20"
+},
+{ 
+    "_id" : ObjectId("5ea378075bd13ae71af59be8"), 
+    "cyclepath_id" : NumberInt(237), 
+    "tripID" : "5e83bcdace8af339f2c2f10c", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:44", 
+    "endTime" : "22:17:20"
+},
+{ 
+    "_id" : ObjectId("5ea378075bd13ae71af59be9"), 
+    "cyclepath_id" : NumberInt(238), 
+    "tripID" : "5e83bcdace8af339f2c2f10c", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:44", 
+    "endTime" : "22:17:20"
+},
+{ 
+    "_id" : ObjectId("5ea378075bd13ae71af59bea"), 
+    "cyclepath_id" : NumberInt(239), 
+    "tripID" : "5e83bcdace8af339f2c2f10c", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:44", 
+    "endTime" : "22:17:20"
+},
+{ 
+    "_id" : ObjectId("5ea378075bd13ae71af59beb"), 
+    "cyclepath_id" : NumberInt(240), 
+    "tripID" : "5e83bcdace8af339f2c2f10c", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:44", 
+    "endTime" : "22:17:20"
+},
+{ 
+    "_id" : ObjectId("5ea378075bd13ae71af59bec"), 
+    "cyclepath_id" : NumberInt(241), 
+    "tripID" : "5e83bcdace8af339f2c2f10c", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:44", 
+    "endTime" : "22:17:20"
+},
+{ 
+    "_id" : ObjectId("5ea378075bd13ae71af59bed"), 
+    "cyclepath_id" : NumberInt(242), 
+    "tripID" : "5e83bcdace8af339f2c2f10c", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:44", 
+    "endTime" : "22:17:20"
+},
+{ 
+    "_id" : ObjectId("5ea378075bd13ae71af59bee"), 
+    "cyclepath_id" : NumberInt(243), 
+    "tripID" : "5e83bcdace8af339f2c2f10c", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:44", 
+    "endTime" : "22:17:20"
+},
+{ 
+    "_id" : ObjectId("5ea378075bd13ae71af59bef"), 
+    "cyclepath_id" : NumberInt(244), 
+    "tripID" : "5e83bcdace8af339f2c2f10c", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:44", 
+    "endTime" : "22:17:20"
+},
+{ 
+    "_id" : ObjectId("5ea378075bd13ae71af59bf0"), 
+    "cyclepath_id" : NumberInt(245), 
+    "tripID" : "5e83bcdace8af339f2c2f10c", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:44", 
+    "endTime" : "22:17:20"
+},
+{ 
+    "_id" : ObjectId("5ea378075bd13ae71af59bf1"), 
+    "cyclepath_id" : NumberInt(246), 
+    "tripID" : "5e83bcdace8af339f2c2f10c", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:44", 
+    "endTime" : "22:17:20"
+},
+{ 
+    "_id" : ObjectId("5ea378075bd13ae71af59bf2"), 
+    "cyclepath_id" : NumberInt(247), 
+    "tripID" : "5e83bcdace8af339f2c2f10c", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:44", 
+    "endTime" : "22:17:20"
+},
+{ 
+    "_id" : ObjectId("5ea378075bd13ae71af59bf3"), 
+    "cyclepath_id" : NumberInt(248), 
+    "tripID" : "5e83bcdace8af339f2c2f10c", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:44", 
+    "endTime" : "22:17:20"
+},
+{ 
+    "_id" : ObjectId("5ea378075bd13ae71af59bf4"), 
+    "cyclepath_id" : NumberInt(249), 
+    "tripID" : "5e83bcdace8af339f2c2f10c", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:44", 
+    "endTime" : "22:17:20"
+},
+{ 
+    "_id" : ObjectId("5ea378075bd13ae71af59bf5"), 
+    "cyclepath_id" : NumberInt(250), 
+    "tripID" : "5e83bcdace8af339f2c2f10c", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:44", 
+    "endTime" : "22:17:20"
+},
+{ 
+    "_id" : ObjectId("5ea378075bd13ae71af59bf6"), 
+    "cyclepath_id" : NumberInt(251), 
+    "tripID" : "5e83bcdace8af339f2c2f10c", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:44", 
+    "endTime" : "22:17:20"
+},
+{ 
+    "_id" : ObjectId("5ea378075bd13ae71af59bf7"), 
+    "cyclepath_id" : NumberInt(252), 
+    "tripID" : "5e83bcdace8af339f2c2f10c", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:44", 
+    "endTime" : "22:17:20"
+},
+{ 
+    "_id" : ObjectId("5ea3793bb7f24f88cfbc601b"), 
+    "cyclepath_id" : NumberInt(78), 
+    "tripID" : "5e83bcaace8af339f2c2f106", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:56:56", 
+    "endTime" : "22:07:41"
+},
+{ 
+    "_id" : ObjectId("5ea3793bb7f24f88cfbc601c"), 
+    "cyclepath_id" : NumberInt(24), 
+    "tripID" : "5e83bcaace8af339f2c2f106", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:56:56", 
+    "endTime" : "22:07:41"
+},
+{ 
+    "_id" : ObjectId("5ea3793bb7f24f88cfbc601d"), 
+    "cyclepath_id" : NumberInt(27), 
+    "tripID" : "5e83bcaace8af339f2c2f106", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:56:56", 
+    "endTime" : "22:07:41"
+},
+{ 
+    "_id" : ObjectId("5ea3793bb7f24f88cfbc601e"), 
+    "cyclepath_id" : NumberInt(216), 
+    "tripID" : "5e83bcaace8af339f2c2f106", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:56:56", 
+    "endTime" : "22:07:41"
+},
+{ 
+    "_id" : ObjectId("5ea3793bb7f24f88cfbc601f"), 
+    "cyclepath_id" : NumberInt(220), 
+    "tripID" : "5e83bcaace8af339f2c2f106", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:56:56", 
+    "endTime" : "22:07:41"
+},
+{ 
+    "_id" : ObjectId("5ea3793bb7f24f88cfbc6020"), 
+    "cyclepath_id" : NumberInt(223), 
+    "tripID" : "5e83bcaace8af339f2c2f106", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:56:56", 
+    "endTime" : "22:07:41"
+},
+{ 
+    "_id" : ObjectId("5ea3793cb7f24f88cfbc6025"), 
+    "cyclepath_id" : NumberInt(253), 
+    "tripID" : "5e83bcaace8af339f2c2f106", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:56:56", 
+    "endTime" : "22:07:41"
+},
+{ 
+    "_id" : ObjectId("5ea3793cb7f24f88cfbc6026"), 
+    "cyclepath_id" : NumberInt(254), 
+    "tripID" : "5e83bcaace8af339f2c2f106", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:56:56", 
+    "endTime" : "22:07:41"
+},
+{ 
+    "_id" : ObjectId("5ea3793cb7f24f88cfbc6027"), 
+    "cyclepath_id" : NumberInt(255), 
+    "tripID" : "5e83bcaace8af339f2c2f106", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:56:56", 
+    "endTime" : "22:07:41"
+},
+{ 
+    "_id" : ObjectId("5ea3793cb7f24f88cfbc6028"), 
+    "cyclepath_id" : NumberInt(256), 
+    "tripID" : "5e83bcaace8af339f2c2f106", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:56:56", 
+    "endTime" : "22:07:41"
+},
+{ 
+    "_id" : ObjectId("5ea37ac0a72853db31a36b94"), 
+    "cyclepath_id" : NumberInt(78), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac0a72853db31a36b95"), 
+    "cyclepath_id" : NumberInt(215), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac0a72853db31a36b96"), 
+    "cyclepath_id" : NumberInt(98), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac0a72853db31a36b97"), 
+    "cyclepath_id" : NumberInt(224), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac0a72853db31a36b98"), 
+    "cyclepath_id" : NumberInt(169), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac0a72853db31a36b99"), 
+    "cyclepath_id" : NumberInt(104), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac0a72853db31a36b9a"), 
+    "cyclepath_id" : NumberInt(94), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac0a72853db31a36b9b"), 
+    "cyclepath_id" : NumberInt(225), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac0a72853db31a36b9c"), 
+    "cyclepath_id" : NumberInt(1), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac0a72853db31a36b9d"), 
+    "cyclepath_id" : NumberInt(121), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac0a72853db31a36b9e"), 
+    "cyclepath_id" : NumberInt(217), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac0a72853db31a36b9f"), 
+    "cyclepath_id" : NumberInt(85), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac0a72853db31a36ba0"), 
+    "cyclepath_id" : NumberInt(238), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac0a72853db31a36ba1"), 
+    "cyclepath_id" : NumberInt(83), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac0a72853db31a36ba2"), 
+    "cyclepath_id" : NumberInt(251), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac0a72853db31a36ba3"), 
+    "cyclepath_id" : NumberInt(223), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac0a72853db31a36ba4"), 
+    "cyclepath_id" : NumberInt(252), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac4a72853db31a36bb7"), 
+    "cyclepath_id" : NumberInt(257), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac4a72853db31a36bb8"), 
+    "cyclepath_id" : NumberInt(258), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac4a72853db31a36bb9"), 
+    "cyclepath_id" : NumberInt(259), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac4a72853db31a36bba"), 
+    "cyclepath_id" : NumberInt(260), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac4a72853db31a36bbb"), 
+    "cyclepath_id" : NumberInt(261), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac4a72853db31a36bbc"), 
+    "cyclepath_id" : NumberInt(262), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac4a72853db31a36bbd"), 
+    "cyclepath_id" : NumberInt(263), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac4a72853db31a36bbe"), 
+    "cyclepath_id" : NumberInt(264), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac4a72853db31a36bbf"), 
+    "cyclepath_id" : NumberInt(265), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac4a72853db31a36bc0"), 
+    "cyclepath_id" : NumberInt(266), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac4a72853db31a36bc1"), 
+    "cyclepath_id" : NumberInt(267), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac4a72853db31a36bc2"), 
+    "cyclepath_id" : NumberInt(268), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac4a72853db31a36bc3"), 
+    "cyclepath_id" : NumberInt(269), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac4a72853db31a36bc4"), 
+    "cyclepath_id" : NumberInt(270), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac4a72853db31a36bc5"), 
+    "cyclepath_id" : NumberInt(271), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac4a72853db31a36bc6"), 
+    "cyclepath_id" : NumberInt(272), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac4a72853db31a36bc7"), 
+    "cyclepath_id" : NumberInt(273), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37ac4a72853db31a36bc8"), 
+    "cyclepath_id" : NumberInt(274), 
+    "tripID" : "5e83bb00ce8af339f2c2f0d1", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:50", 
+    "endTime" : "22:15:19"
+},
+{ 
+    "_id" : ObjectId("5ea37b79d84a567e39dec6da"), 
+    "cyclepath_id" : NumberInt(88), 
+    "tripID" : "5e83baf9ce8af339f2c2f0d0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:43", 
+    "endTime" : "21:58:52"
+},
+{ 
+    "_id" : ObjectId("5ea37b79d84a567e39dec6db"), 
+    "cyclepath_id" : NumberInt(104), 
+    "tripID" : "5e83baf9ce8af339f2c2f0d0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:43", 
+    "endTime" : "21:58:52"
+},
+{ 
+    "_id" : ObjectId("5ea37b79d84a567e39dec6dc"), 
+    "cyclepath_id" : NumberInt(230), 
+    "tripID" : "5e83baf9ce8af339f2c2f0d0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:43", 
+    "endTime" : "21:58:52"
+},
+{ 
+    "_id" : ObjectId("5ea37b79d84a567e39dec6dd"), 
+    "cyclepath_id" : NumberInt(261), 
+    "tripID" : "5e83baf9ce8af339f2c2f0d0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:43", 
+    "endTime" : "21:58:52"
+},
+{ 
+    "_id" : ObjectId("5ea37b79d84a567e39dec6de"), 
+    "cyclepath_id" : NumberInt(225), 
+    "tripID" : "5e83baf9ce8af339f2c2f0d0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:43", 
+    "endTime" : "21:58:52"
+},
+{ 
+    "_id" : ObjectId("5ea37b79d84a567e39dec6df"), 
+    "cyclepath_id" : NumberInt(233), 
+    "tripID" : "5e83baf9ce8af339f2c2f0d0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:43", 
+    "endTime" : "21:58:52"
+},
+{ 
+    "_id" : ObjectId("5ea37b7bd84a567e39dec6e7"), 
+    "cyclepath_id" : NumberInt(275), 
+    "tripID" : "5e83baf9ce8af339f2c2f0d0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:43", 
+    "endTime" : "21:58:52"
+},
+{ 
+    "_id" : ObjectId("5ea37b7bd84a567e39dec6e8"), 
+    "cyclepath_id" : NumberInt(276), 
+    "tripID" : "5e83baf9ce8af339f2c2f0d0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:43", 
+    "endTime" : "21:58:52"
+},
+{ 
+    "_id" : ObjectId("5ea37b7bd84a567e39dec6e9"), 
+    "cyclepath_id" : NumberInt(277), 
+    "tripID" : "5e83baf9ce8af339f2c2f0d0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:43", 
+    "endTime" : "21:58:52"
+},
+{ 
+    "_id" : ObjectId("5ea37b7bd84a567e39dec6ea"), 
+    "cyclepath_id" : NumberInt(278), 
+    "tripID" : "5e83baf9ce8af339f2c2f0d0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:43", 
+    "endTime" : "21:58:52"
+},
+{ 
+    "_id" : ObjectId("5ea37b7bd84a567e39dec6eb"), 
+    "cyclepath_id" : NumberInt(279), 
+    "tripID" : "5e83baf9ce8af339f2c2f0d0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:43", 
+    "endTime" : "21:58:52"
+},
+{ 
+    "_id" : ObjectId("5ea37b7bd84a567e39dec6ec"), 
+    "cyclepath_id" : NumberInt(280), 
+    "tripID" : "5e83baf9ce8af339f2c2f0d0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:43", 
+    "endTime" : "21:58:52"
+},
+{ 
+    "_id" : ObjectId("5ea37b7bd84a567e39dec6ed"), 
+    "cyclepath_id" : NumberInt(281), 
+    "tripID" : "5e83baf9ce8af339f2c2f0d0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:43", 
+    "endTime" : "21:58:52"
+},
+{ 
+    "_id" : ObjectId("5ea37bc46b0b65a72064e091"), 
+    "cyclepath_id" : NumberInt(257), 
+    "tripID" : "5e83ba4ace8af339f2c2f0ba", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:48", 
+    "endTime" : "21:58:41"
+},
+{ 
+    "_id" : ObjectId("5ea37bc46b0b65a72064e092"), 
+    "cyclepath_id" : NumberInt(98), 
+    "tripID" : "5e83ba4ace8af339f2c2f0ba", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:48", 
+    "endTime" : "21:58:41"
+},
+{ 
+    "_id" : ObjectId("5ea37bc46b0b65a72064e093"), 
+    "cyclepath_id" : NumberInt(88), 
+    "tripID" : "5e83ba4ace8af339f2c2f0ba", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:48", 
+    "endTime" : "21:58:41"
+},
+{ 
+    "_id" : ObjectId("5ea37bc46b0b65a72064e094"), 
+    "cyclepath_id" : NumberInt(224), 
+    "tripID" : "5e83ba4ace8af339f2c2f0ba", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:48", 
+    "endTime" : "21:58:41"
+},
+{ 
+    "_id" : ObjectId("5ea37bc46b0b65a72064e095"), 
+    "cyclepath_id" : NumberInt(87), 
+    "tripID" : "5e83ba4ace8af339f2c2f0ba", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:48", 
+    "endTime" : "21:58:41"
+},
+{ 
+    "_id" : ObjectId("5ea37bc46b0b65a72064e096"), 
+    "cyclepath_id" : NumberInt(1), 
+    "tripID" : "5e83ba4ace8af339f2c2f0ba", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:48", 
+    "endTime" : "21:58:41"
+},
+{ 
+    "_id" : ObjectId("5ea37bc46b0b65a72064e097"), 
+    "cyclepath_id" : NumberInt(258), 
+    "tripID" : "5e83ba4ace8af339f2c2f0ba", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:48", 
+    "endTime" : "21:58:41"
+},
+{ 
+    "_id" : ObjectId("5ea37bc56b0b65a72064e09e"), 
+    "cyclepath_id" : NumberInt(282), 
+    "tripID" : "5e83ba4ace8af339f2c2f0ba", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:48", 
+    "endTime" : "21:58:41"
+},
+{ 
+    "_id" : ObjectId("5ea37bc56b0b65a72064e09f"), 
+    "cyclepath_id" : NumberInt(283), 
+    "tripID" : "5e83ba4ace8af339f2c2f0ba", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:48", 
+    "endTime" : "21:58:41"
+},
+{ 
+    "_id" : ObjectId("5ea37bc56b0b65a72064e0a0"), 
+    "cyclepath_id" : NumberInt(284), 
+    "tripID" : "5e83ba4ace8af339f2c2f0ba", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:48", 
+    "endTime" : "21:58:41"
+},
+{ 
+    "_id" : ObjectId("5ea37bc56b0b65a72064e0a1"), 
+    "cyclepath_id" : NumberInt(285), 
+    "tripID" : "5e83ba4ace8af339f2c2f0ba", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:48", 
+    "endTime" : "21:58:41"
+},
+{ 
+    "_id" : ObjectId("5ea37bc56b0b65a72064e0a2"), 
+    "cyclepath_id" : NumberInt(286), 
+    "tripID" : "5e83ba4ace8af339f2c2f0ba", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:48", 
+    "endTime" : "21:58:41"
+},
+{ 
+    "_id" : ObjectId("5ea37bc56b0b65a72064e0a3"), 
+    "cyclepath_id" : NumberInt(287), 
+    "tripID" : "5e83ba4ace8af339f2c2f0ba", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:48", 
+    "endTime" : "21:58:41"
+},
+{ 
+    "_id" : ObjectId("5ea37bea447f0c27297f3a3d"), 
+    "cyclepath_id" : NumberInt(201), 
+    "tripID" : "5e83ba69ce8af339f2c2f0be", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:47:19", 
+    "endTime" : "21:53:25"
+},
+{ 
+    "_id" : ObjectId("5ea37bea447f0c27297f3a3e"), 
+    "cyclepath_id" : NumberInt(236), 
+    "tripID" : "5e83ba69ce8af339f2c2f0be", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:47:19", 
+    "endTime" : "21:53:25"
+},
+{ 
+    "_id" : ObjectId("5ea37bea447f0c27297f3a3f"), 
+    "cyclepath_id" : NumberInt(225), 
+    "tripID" : "5e83ba69ce8af339f2c2f0be", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:47:19", 
+    "endTime" : "21:53:25"
+},
+{ 
+    "_id" : ObjectId("5ea37bea447f0c27297f3a40"), 
+    "cyclepath_id" : NumberInt(239), 
+    "tripID" : "5e83ba69ce8af339f2c2f0be", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:47:19", 
+    "endTime" : "21:53:25"
+},
+{ 
+    "_id" : ObjectId("5ea37bec447f0c27297f3a46"), 
+    "cyclepath_id" : NumberInt(288), 
+    "tripID" : "5e83ba69ce8af339f2c2f0be", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:47:19", 
+    "endTime" : "21:53:25"
+},
+{ 
+    "_id" : ObjectId("5ea37bec447f0c27297f3a47"), 
+    "cyclepath_id" : NumberInt(289), 
+    "tripID" : "5e83ba69ce8af339f2c2f0be", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:47:19", 
+    "endTime" : "21:53:25"
+},
+{ 
+    "_id" : ObjectId("5ea37bec447f0c27297f3a48"), 
+    "cyclepath_id" : NumberInt(290), 
+    "tripID" : "5e83ba69ce8af339f2c2f0be", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:47:19", 
+    "endTime" : "21:53:25"
+},
+{ 
+    "_id" : ObjectId("5ea37bec447f0c27297f3a49"), 
+    "cyclepath_id" : NumberInt(291), 
+    "tripID" : "5e83ba69ce8af339f2c2f0be", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:47:19", 
+    "endTime" : "21:53:25"
+},
+{ 
+    "_id" : ObjectId("5ea37bec447f0c27297f3a4a"), 
+    "cyclepath_id" : NumberInt(292), 
+    "tripID" : "5e83ba69ce8af339f2c2f0be", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:47:19", 
+    "endTime" : "21:53:25"
+},
+{ 
+    "_id" : ObjectId("5ea37cd1ced2721f903ce688"), 
+    "cyclepath_id" : NumberInt(64), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea37cd1ced2721f903ce689"), 
+    "cyclepath_id" : NumberInt(78), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea37cd1ced2721f903ce68a"), 
+    "cyclepath_id" : NumberInt(263), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea37cd1ced2721f903ce68b"), 
+    "cyclepath_id" : NumberInt(224), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea37cd1ced2721f903ce68c"), 
+    "cyclepath_id" : NumberInt(8), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea37cd1ced2721f903ce68d"), 
+    "cyclepath_id" : NumberInt(1), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea37cd1ced2721f903ce68e"), 
+    "cyclepath_id" : NumberInt(258), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea37cd1ced2721f903ce68f"), 
+    "cyclepath_id" : NumberInt(121), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea37cd1ced2721f903ce690"), 
+    "cyclepath_id" : NumberInt(260), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea37cd1ced2721f903ce691"), 
+    "cyclepath_id" : NumberInt(19), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea37cd1ced2721f903ce692"), 
+    "cyclepath_id" : NumberInt(239), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea37cd1ced2721f903ce693"), 
+    "cyclepath_id" : NumberInt(228), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea37cd1ced2721f903ce694"), 
+    "cyclepath_id" : NumberInt(251), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea37cd1ced2721f903ce695"), 
+    "cyclepath_id" : NumberInt(223), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea37cd4ced2721f903ce6a3"), 
+    "cyclepath_id" : NumberInt(293), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea37cd4ced2721f903ce6a4"), 
+    "cyclepath_id" : NumberInt(294), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea37cd4ced2721f903ce6a5"), 
+    "cyclepath_id" : NumberInt(295), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea37cd4ced2721f903ce6a6"), 
+    "cyclepath_id" : NumberInt(296), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea37cd4ced2721f903ce6a7"), 
+    "cyclepath_id" : NumberInt(297), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea37cd4ced2721f903ce6a8"), 
+    "cyclepath_id" : NumberInt(298), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea37cd4ced2721f903ce6a9"), 
+    "cyclepath_id" : NumberInt(299), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea37cd4ced2721f903ce6aa"), 
+    "cyclepath_id" : NumberInt(300), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea37cd4ced2721f903ce6ab"), 
+    "cyclepath_id" : NumberInt(301), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea37cd4ced2721f903ce6ac"), 
+    "cyclepath_id" : NumberInt(302), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea37cd4ced2721f903ce6ad"), 
+    "cyclepath_id" : NumberInt(303), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea37cd4ced2721f903ce6ae"), 
+    "cyclepath_id" : NumberInt(304), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea37cd4ced2721f903ce6af"), 
+    "cyclepath_id" : NumberInt(305), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea37db971b2d4056007f525"), 
+    "cyclepath_id" : NumberInt(84), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea37db971b2d4056007f526"), 
+    "cyclepath_id" : NumberInt(205), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea37db971b2d4056007f527"), 
+    "cyclepath_id" : NumberInt(206), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea37db971b2d4056007f528"), 
+    "cyclepath_id" : NumberInt(207), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea37db971b2d4056007f529"), 
+    "cyclepath_id" : NumberInt(208), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea37db971b2d4056007f52a"), 
+    "cyclepath_id" : NumberInt(209), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea37db971b2d4056007f52b"), 
+    "cyclepath_id" : NumberInt(210), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea37db971b2d4056007f52c"), 
+    "cyclepath_id" : NumberInt(211), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea37db971b2d4056007f52d"), 
+    "cyclepath_id" : NumberInt(243), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea37db971b2d4056007f52e"), 
+    "cyclepath_id" : NumberInt(213), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea37db971b2d4056007f52f"), 
+    "cyclepath_id" : NumberInt(214), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea410d8ae3e2881d58a7489"), 
+    "cyclepath_id" : NumberInt(98), 
+    "tripID" : "5e83bbcfce8af339f2c2f0ea", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:53:17", 
+    "endTime" : "22:05:14"
+},
+{ 
+    "_id" : ObjectId("5ea410d8ae3e2881d58a748a"), 
+    "cyclepath_id" : NumberInt(234), 
+    "tripID" : "5e83bbcfce8af339f2c2f0ea", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:53:17", 
+    "endTime" : "22:05:14"
+},
+{ 
+    "_id" : ObjectId("5ea410d8ae3e2881d58a748b"), 
+    "cyclepath_id" : NumberInt(224), 
+    "tripID" : "5e83bbcfce8af339f2c2f0ea", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:53:17", 
+    "endTime" : "22:05:14"
+},
+{ 
+    "_id" : ObjectId("5ea410d8ae3e2881d58a748c"), 
+    "cyclepath_id" : NumberInt(275), 
+    "tripID" : "5e83bbcfce8af339f2c2f0ea", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:53:17", 
+    "endTime" : "22:05:14"
+},
+{ 
+    "_id" : ObjectId("5ea410d8ae3e2881d58a748d"), 
+    "cyclepath_id" : NumberInt(259), 
+    "tripID" : "5e83bbcfce8af339f2c2f0ea", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:53:17", 
+    "endTime" : "22:05:14"
+},
+{ 
+    "_id" : ObjectId("5ea410d8ae3e2881d58a748e"), 
+    "cyclepath_id" : NumberInt(288), 
+    "tripID" : "5e83bbcfce8af339f2c2f0ea", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:53:17", 
+    "endTime" : "22:05:14"
+},
+{ 
+    "_id" : ObjectId("5ea410d8ae3e2881d58a748f"), 
+    "cyclepath_id" : NumberInt(104), 
+    "tripID" : "5e83bbcfce8af339f2c2f0ea", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:53:17", 
+    "endTime" : "22:05:14"
+},
+{ 
+    "_id" : ObjectId("5ea410d8ae3e2881d58a7490"), 
+    "cyclepath_id" : NumberInt(281), 
+    "tripID" : "5e83bbcfce8af339f2c2f0ea", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:53:17", 
+    "endTime" : "22:05:14"
+},
+{ 
+    "_id" : ObjectId("5ea410d8ae3e2881d58a7491"), 
+    "cyclepath_id" : NumberInt(266), 
+    "tripID" : "5e83bbcfce8af339f2c2f0ea", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:53:17", 
+    "endTime" : "22:05:14"
+},
+{ 
+    "_id" : ObjectId("5ea410d8ae3e2881d58a7492"), 
+    "cyclepath_id" : NumberInt(246), 
+    "tripID" : "5e83bbcfce8af339f2c2f0ea", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:53:17", 
+    "endTime" : "22:05:14"
+},
+{ 
+    "_id" : ObjectId("5ea410d8ae3e2881d58a7493"), 
+    "cyclepath_id" : NumberInt(228), 
+    "tripID" : "5e83bbcfce8af339f2c2f0ea", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:53:17", 
+    "endTime" : "22:05:14"
+},
+{ 
+    "_id" : ObjectId("5ea410d9ae3e2881d58a7498"), 
+    "cyclepath_id" : NumberInt(306), 
+    "tripID" : "5e83bbcfce8af339f2c2f0ea", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:53:17", 
+    "endTime" : "22:05:14"
+},
+{ 
+    "_id" : ObjectId("5ea410d9ae3e2881d58a7499"), 
+    "cyclepath_id" : NumberInt(307), 
+    "tripID" : "5e83bbcfce8af339f2c2f0ea", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:53:17", 
+    "endTime" : "22:05:14"
+},
+{ 
+    "_id" : ObjectId("5ea410d9ae3e2881d58a749a"), 
+    "cyclepath_id" : NumberInt(308), 
+    "tripID" : "5e83bbcfce8af339f2c2f0ea", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:53:17", 
+    "endTime" : "22:05:14"
+},
+{ 
+    "_id" : ObjectId("5ea410d9ae3e2881d58a749b"), 
+    "cyclepath_id" : NumberInt(309), 
+    "tripID" : "5e83bbcfce8af339f2c2f0ea", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:53:17", 
+    "endTime" : "22:05:14"
+},
+{ 
+    "_id" : ObjectId("5ea410df21e49a261264f663"), 
+    "cyclepath_id" : NumberInt(64), 
+    "tripID" : "5e83b9fdce8af339f2c2f0b0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:30", 
+    "endTime" : "22:07:18"
+},
+{ 
+    "_id" : ObjectId("5ea410df21e49a261264f664"), 
+    "cyclepath_id" : NumberInt(293), 
+    "tripID" : "5e83b9fdce8af339f2c2f0b0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:30", 
+    "endTime" : "22:07:18"
+},
+{ 
+    "_id" : ObjectId("5ea410df21e49a261264f665"), 
+    "cyclepath_id" : NumberInt(112), 
+    "tripID" : "5e83b9fdce8af339f2c2f0b0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:30", 
+    "endTime" : "22:07:18"
+},
+{ 
+    "_id" : ObjectId("5ea410df21e49a261264f666"), 
+    "cyclepath_id" : NumberInt(295), 
+    "tripID" : "5e83b9fdce8af339f2c2f0b0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:30", 
+    "endTime" : "22:07:18"
+},
+{ 
+    "_id" : ObjectId("5ea410df21e49a261264f667"), 
+    "cyclepath_id" : NumberInt(87), 
+    "tripID" : "5e83b9fdce8af339f2c2f0b0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:30", 
+    "endTime" : "22:07:18"
+},
+{ 
+    "_id" : ObjectId("5ea410df21e49a261264f668"), 
+    "cyclepath_id" : NumberInt(283), 
+    "tripID" : "5e83b9fdce8af339f2c2f0b0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:30", 
+    "endTime" : "22:07:18"
+},
+{ 
+    "_id" : ObjectId("5ea410df21e49a261264f669"), 
+    "cyclepath_id" : NumberInt(236), 
+    "tripID" : "5e83b9fdce8af339f2c2f0b0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:30", 
+    "endTime" : "22:07:18"
+},
+{ 
+    "_id" : ObjectId("5ea410df21e49a261264f66a"), 
+    "cyclepath_id" : NumberInt(297), 
+    "tripID" : "5e83b9fdce8af339f2c2f0b0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:30", 
+    "endTime" : "22:07:18"
+},
+{ 
+    "_id" : ObjectId("5ea410df21e49a261264f66b"), 
+    "cyclepath_id" : NumberInt(19), 
+    "tripID" : "5e83b9fdce8af339f2c2f0b0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:30", 
+    "endTime" : "22:07:18"
+},
+{ 
+    "_id" : ObjectId("5ea410df21e49a261264f66c"), 
+    "cyclepath_id" : NumberInt(301), 
+    "tripID" : "5e83b9fdce8af339f2c2f0b0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:30", 
+    "endTime" : "22:07:18"
+},
+{ 
+    "_id" : ObjectId("5ea410df21e49a261264f66d"), 
+    "cyclepath_id" : NumberInt(246), 
+    "tripID" : "5e83b9fdce8af339f2c2f0b0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:30", 
+    "endTime" : "22:07:18"
+},
+{ 
+    "_id" : ObjectId("5ea410df21e49a261264f66e"), 
+    "cyclepath_id" : NumberInt(228), 
+    "tripID" : "5e83b9fdce8af339f2c2f0b0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:30", 
+    "endTime" : "22:07:18"
+},
+{ 
+    "_id" : ObjectId("5ea410df21e49a261264f66f"), 
+    "cyclepath_id" : NumberInt(256), 
+    "tripID" : "5e83b9fdce8af339f2c2f0b0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:30", 
+    "endTime" : "22:07:18"
+},
+{ 
+    "_id" : ObjectId("5ea410df21e49a261264f670"), 
+    "cyclepath_id" : NumberInt(287), 
+    "tripID" : "5e83b9fdce8af339f2c2f0b0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:30", 
+    "endTime" : "22:07:18"
+},
+{ 
+    "_id" : ObjectId("5ea410df21e49a261264f671"), 
+    "cyclepath_id" : NumberInt(251), 
+    "tripID" : "5e83b9fdce8af339f2c2f0b0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:30", 
+    "endTime" : "22:07:18"
+},
+{ 
+    "_id" : ObjectId("5ea410e021e49a261264f677"), 
+    "cyclepath_id" : NumberInt(310), 
+    "tripID" : "5e83b9fdce8af339f2c2f0b0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:30", 
+    "endTime" : "22:07:18"
+},
+{ 
+    "_id" : ObjectId("5ea410e021e49a261264f678"), 
+    "cyclepath_id" : NumberInt(311), 
+    "tripID" : "5e83b9fdce8af339f2c2f0b0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:30", 
+    "endTime" : "22:07:18"
+},
+{ 
+    "_id" : ObjectId("5ea410e021e49a261264f679"), 
+    "cyclepath_id" : NumberInt(312), 
+    "tripID" : "5e83b9fdce8af339f2c2f0b0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:30", 
+    "endTime" : "22:07:18"
+},
+{ 
+    "_id" : ObjectId("5ea410e021e49a261264f67a"), 
+    "cyclepath_id" : NumberInt(313), 
+    "tripID" : "5e83b9fdce8af339f2c2f0b0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:30", 
+    "endTime" : "22:07:18"
+},
+{ 
+    "_id" : ObjectId("5ea410e021e49a261264f67b"), 
+    "cyclepath_id" : NumberInt(314), 
+    "tripID" : "5e83b9fdce8af339f2c2f0b0", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:30", 
+    "endTime" : "22:07:18"
+},
+{ 
+    "_id" : ObjectId("5ea410e5424a0904daf24af6"), 
+    "cyclepath_id" : NumberInt(64), 
+    "tripID" : "5e83bac1ce8af339f2c2f0c9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:47", 
+    "endTime" : "22:04:38"
+},
+{ 
+    "_id" : ObjectId("5ea410e5424a0904daf24af7"), 
+    "cyclepath_id" : NumberInt(293), 
+    "tripID" : "5e83bac1ce8af339f2c2f0c9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:47", 
+    "endTime" : "22:04:38"
+},
+{ 
+    "_id" : ObjectId("5ea410e5424a0904daf24af8"), 
+    "cyclepath_id" : NumberInt(295), 
+    "tripID" : "5e83bac1ce8af339f2c2f0c9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:47", 
+    "endTime" : "22:04:38"
+},
+{ 
+    "_id" : ObjectId("5ea410e5424a0904daf24af9"), 
+    "cyclepath_id" : NumberInt(87), 
+    "tripID" : "5e83bac1ce8af339f2c2f0c9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:47", 
+    "endTime" : "22:04:38"
+},
+{ 
+    "_id" : ObjectId("5ea410e5424a0904daf24afa"), 
+    "cyclepath_id" : NumberInt(283), 
+    "tripID" : "5e83bac1ce8af339f2c2f0c9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:47", 
+    "endTime" : "22:04:38"
+},
+{ 
+    "_id" : ObjectId("5ea410e5424a0904daf24afb"), 
+    "cyclepath_id" : NumberInt(284), 
+    "tripID" : "5e83bac1ce8af339f2c2f0c9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:47", 
+    "endTime" : "22:04:38"
+},
+{ 
+    "_id" : ObjectId("5ea410e5424a0904daf24afc"), 
+    "cyclepath_id" : NumberInt(236), 
+    "tripID" : "5e83bac1ce8af339f2c2f0c9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:47", 
+    "endTime" : "22:04:38"
+},
+{ 
+    "_id" : ObjectId("5ea410e5424a0904daf24afd"), 
+    "cyclepath_id" : NumberInt(1), 
+    "tripID" : "5e83bac1ce8af339f2c2f0c9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:47", 
+    "endTime" : "22:04:38"
+},
+{ 
+    "_id" : ObjectId("5ea410e5424a0904daf24afe"), 
+    "cyclepath_id" : NumberInt(258), 
+    "tripID" : "5e83bac1ce8af339f2c2f0c9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:47", 
+    "endTime" : "22:04:38"
+},
+{ 
+    "_id" : ObjectId("5ea410e5424a0904daf24aff"), 
+    "cyclepath_id" : NumberInt(313), 
+    "tripID" : "5e83bac1ce8af339f2c2f0c9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:47", 
+    "endTime" : "22:04:38"
+},
+{ 
+    "_id" : ObjectId("5ea410e5424a0904daf24b00"), 
+    "cyclepath_id" : NumberInt(19), 
+    "tripID" : "5e83bac1ce8af339f2c2f0c9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:47", 
+    "endTime" : "22:04:38"
+},
+{ 
+    "_id" : ObjectId("5ea410e5424a0904daf24b01"), 
+    "cyclepath_id" : NumberInt(301), 
+    "tripID" : "5e83bac1ce8af339f2c2f0c9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:47", 
+    "endTime" : "22:04:38"
+},
+{ 
+    "_id" : ObjectId("5ea410e5424a0904daf24b02"), 
+    "cyclepath_id" : NumberInt(251), 
+    "tripID" : "5e83bac1ce8af339f2c2f0c9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:47", 
+    "endTime" : "22:04:38"
+},
+{ 
+    "_id" : ObjectId("5ea410e5424a0904daf24b06"), 
+    "cyclepath_id" : NumberInt(315), 
+    "tripID" : "5e83bac1ce8af339f2c2f0c9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:47", 
+    "endTime" : "22:04:38"
+},
+{ 
+    "_id" : ObjectId("5ea410e5424a0904daf24b07"), 
+    "cyclepath_id" : NumberInt(316), 
+    "tripID" : "5e83bac1ce8af339f2c2f0c9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:47", 
+    "endTime" : "22:04:38"
+},
+{ 
+    "_id" : ObjectId("5ea410e5424a0904daf24b08"), 
+    "cyclepath_id" : NumberInt(317), 
+    "tripID" : "5e83bac1ce8af339f2c2f0c9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:47", 
+    "endTime" : "22:04:38"
+},
+{ 
+    "_id" : ObjectId("5ea410eb4b1c86c273f7c2eb"), 
+    "cyclepath_id" : NumberInt(64), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea410eb4b1c86c273f7c2ec"), 
+    "cyclepath_id" : NumberInt(293), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea410eb4b1c86c273f7c2ed"), 
+    "cyclepath_id" : NumberInt(78), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea410eb4b1c86c273f7c2ee"), 
+    "cyclepath_id" : NumberInt(263), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea410eb4b1c86c273f7c2ef"), 
+    "cyclepath_id" : NumberInt(294), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea410eb4b1c86c273f7c2f0"), 
+    "cyclepath_id" : NumberInt(224), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea410eb4b1c86c273f7c2f1"), 
+    "cyclepath_id" : NumberInt(295), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea410eb4b1c86c273f7c2f2"), 
+    "cyclepath_id" : NumberInt(8), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea410eb4b1c86c273f7c2f3"), 
+    "cyclepath_id" : NumberInt(1), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea410eb4b1c86c273f7c2f4"), 
+    "cyclepath_id" : NumberInt(258), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea410eb4b1c86c273f7c2f5"), 
+    "cyclepath_id" : NumberInt(296), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea410eb4b1c86c273f7c2f6"), 
+    "cyclepath_id" : NumberInt(297), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea410eb4b1c86c273f7c2f7"), 
+    "cyclepath_id" : NumberInt(121), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea410eb4b1c86c273f7c2f8"), 
+    "cyclepath_id" : NumberInt(260), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea410eb4b1c86c273f7c2f9"), 
+    "cyclepath_id" : NumberInt(19), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea410eb4b1c86c273f7c2fa"), 
+    "cyclepath_id" : NumberInt(298), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea410eb4b1c86c273f7c2fb"), 
+    "cyclepath_id" : NumberInt(239), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea410eb4b1c86c273f7c2fc"), 
+    "cyclepath_id" : NumberInt(299), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea410eb4b1c86c273f7c2fd"), 
+    "cyclepath_id" : NumberInt(302), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea410eb4b1c86c273f7c2fe"), 
+    "cyclepath_id" : NumberInt(301), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea410eb4b1c86c273f7c2ff"), 
+    "cyclepath_id" : NumberInt(303), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea410eb4b1c86c273f7c300"), 
+    "cyclepath_id" : NumberInt(228), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea410eb4b1c86c273f7c301"), 
+    "cyclepath_id" : NumberInt(251), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea410eb4b1c86c273f7c302"), 
+    "cyclepath_id" : NumberInt(223), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea410eb4b1c86c273f7c303"), 
+    "cyclepath_id" : NumberInt(304), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea410eb4b1c86c273f7c304"), 
+    "cyclepath_id" : NumberInt(305), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea410eb4b1c86c273f7c306"), 
+    "cyclepath_id" : NumberInt(318), 
+    "tripID" : "5e83bab9ce8af339f2c2f0c8", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:48:39", 
+    "endTime" : "22:07:45"
+},
+{ 
+    "_id" : ObjectId("5ea410f0d13f1ca00163ea31"), 
+    "cyclepath_id" : NumberInt(78), 
+    "tripID" : "5e83bc26ce8af339f2c2f0f5", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:43", 
+    "endTime" : "22:14:06"
+},
+{ 
+    "_id" : ObjectId("5ea410f0d13f1ca00163ea32"), 
+    "cyclepath_id" : NumberInt(263), 
+    "tripID" : "5e83bc26ce8af339f2c2f0f5", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:43", 
+    "endTime" : "22:14:06"
+},
+{ 
+    "_id" : ObjectId("5ea410f0d13f1ca00163ea33"), 
+    "cyclepath_id" : NumberInt(169), 
+    "tripID" : "5e83bc26ce8af339f2c2f0f5", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:43", 
+    "endTime" : "22:14:06"
+},
+{ 
+    "_id" : ObjectId("5ea410f0d13f1ca00163ea34"), 
+    "cyclepath_id" : NumberInt(1), 
+    "tripID" : "5e83bc26ce8af339f2c2f0f5", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:43", 
+    "endTime" : "22:14:06"
+},
+{ 
+    "_id" : ObjectId("5ea410f0d13f1ca00163ea35"), 
+    "cyclepath_id" : NumberInt(258), 
+    "tripID" : "5e83bc26ce8af339f2c2f0f5", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:43", 
+    "endTime" : "22:14:06"
+},
+{ 
+    "_id" : ObjectId("5ea410f0d13f1ca00163ea36"), 
+    "cyclepath_id" : NumberInt(121), 
+    "tripID" : "5e83bc26ce8af339f2c2f0f5", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:43", 
+    "endTime" : "22:14:06"
+},
+{ 
+    "_id" : ObjectId("5ea410f0d13f1ca00163ea37"), 
+    "cyclepath_id" : NumberInt(260), 
+    "tripID" : "5e83bc26ce8af339f2c2f0f5", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:43", 
+    "endTime" : "22:14:06"
+},
+{ 
+    "_id" : ObjectId("5ea410f0d13f1ca00163ea38"), 
+    "cyclepath_id" : NumberInt(220), 
+    "tripID" : "5e83bc26ce8af339f2c2f0f5", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:43", 
+    "endTime" : "22:14:06"
+},
+{ 
+    "_id" : ObjectId("5ea410f0d13f1ca00163ea39"), 
+    "cyclepath_id" : NumberInt(229), 
+    "tripID" : "5e83bc26ce8af339f2c2f0f5", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:43", 
+    "endTime" : "22:14:06"
+},
+{ 
+    "_id" : ObjectId("5ea410f0d13f1ca00163ea3a"), 
+    "cyclepath_id" : NumberInt(83), 
+    "tripID" : "5e83bc26ce8af339f2c2f0f5", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:43", 
+    "endTime" : "22:14:06"
+},
+{ 
+    "_id" : ObjectId("5ea410f0d13f1ca00163ea3b"), 
+    "cyclepath_id" : NumberInt(251), 
+    "tripID" : "5e83bc26ce8af339f2c2f0f5", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:43", 
+    "endTime" : "22:14:06"
+},
+{ 
+    "_id" : ObjectId("5ea410f0d13f1ca00163ea3c"), 
+    "cyclepath_id" : NumberInt(223), 
+    "tripID" : "5e83bc26ce8af339f2c2f0f5", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:43", 
+    "endTime" : "22:14:06"
+},
+{ 
+    "_id" : ObjectId("5ea410f1d13f1ca00163ea41"), 
+    "cyclepath_id" : NumberInt(319), 
+    "tripID" : "5e83bc26ce8af339f2c2f0f5", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:43", 
+    "endTime" : "22:14:06"
+},
+{ 
+    "_id" : ObjectId("5ea410f1d13f1ca00163ea42"), 
+    "cyclepath_id" : NumberInt(320), 
+    "tripID" : "5e83bc26ce8af339f2c2f0f5", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:43", 
+    "endTime" : "22:14:06"
+},
+{ 
+    "_id" : ObjectId("5ea410f1d13f1ca00163ea43"), 
+    "cyclepath_id" : NumberInt(321), 
+    "tripID" : "5e83bc26ce8af339f2c2f0f5", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:43", 
+    "endTime" : "22:14:06"
+},
+{ 
+    "_id" : ObjectId("5ea410f1d13f1ca00163ea44"), 
+    "cyclepath_id" : NumberInt(322), 
+    "tripID" : "5e83bc26ce8af339f2c2f0f5", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:43", 
+    "endTime" : "22:14:06"
+},
+{ 
+    "_id" : ObjectId("5ea410f5bd483a500573a471"), 
+    "cyclepath_id" : NumberInt(8), 
+    "tripID" : "5e83ba5ace8af339f2c2f0bc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:47:04", 
+    "endTime" : "21:55:00"
+},
+{ 
+    "_id" : ObjectId("5ea410f5bd483a500573a472"), 
+    "cyclepath_id" : NumberInt(288), 
+    "tripID" : "5e83ba5ace8af339f2c2f0bc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:47:04", 
+    "endTime" : "21:55:00"
+},
+{ 
+    "_id" : ObjectId("5ea410f5bd483a500573a473"), 
+    "cyclepath_id" : NumberInt(246), 
+    "tripID" : "5e83ba5ace8af339f2c2f0bc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:47:04", 
+    "endTime" : "21:55:00"
+},
+{ 
+    "_id" : ObjectId("5ea410f7bd483a500573a47a"), 
+    "cyclepath_id" : NumberInt(323), 
+    "tripID" : "5e83ba5ace8af339f2c2f0bc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:47:04", 
+    "endTime" : "21:55:00"
+},
+{ 
+    "_id" : ObjectId("5ea410f7bd483a500573a47b"), 
+    "cyclepath_id" : NumberInt(324), 
+    "tripID" : "5e83ba5ace8af339f2c2f0bc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:47:04", 
+    "endTime" : "21:55:00"
+},
+{ 
+    "_id" : ObjectId("5ea410f7bd483a500573a47c"), 
+    "cyclepath_id" : NumberInt(325), 
+    "tripID" : "5e83ba5ace8af339f2c2f0bc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:47:04", 
+    "endTime" : "21:55:00"
+},
+{ 
+    "_id" : ObjectId("5ea410f7bd483a500573a47d"), 
+    "cyclepath_id" : NumberInt(326), 
+    "tripID" : "5e83ba5ace8af339f2c2f0bc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:47:04", 
+    "endTime" : "21:55:00"
+},
+{ 
+    "_id" : ObjectId("5ea410f7bd483a500573a47e"), 
+    "cyclepath_id" : NumberInt(327), 
+    "tripID" : "5e83ba5ace8af339f2c2f0bc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:47:04", 
+    "endTime" : "21:55:00"
+},
+{ 
+    "_id" : ObjectId("5ea410f7bd483a500573a47f"), 
+    "cyclepath_id" : NumberInt(328), 
+    "tripID" : "5e83ba5ace8af339f2c2f0bc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:47:04", 
+    "endTime" : "21:55:00"
+},
+{ 
+    "_id" : ObjectId("5ea410fbe774d45934207eec"), 
+    "cyclepath_id" : NumberInt(78), 
+    "tripID" : "5e83baf1ce8af339f2c2f0cf", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:35", 
+    "endTime" : "22:05:39"
+},
+{ 
+    "_id" : ObjectId("5ea410fbe774d45934207eed"), 
+    "cyclepath_id" : NumberInt(263), 
+    "tripID" : "5e83baf1ce8af339f2c2f0cf", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:35", 
+    "endTime" : "22:05:39"
+},
+{ 
+    "_id" : ObjectId("5ea410fbe774d45934207eee"), 
+    "cyclepath_id" : NumberInt(121), 
+    "tripID" : "5e83baf1ce8af339f2c2f0cf", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:35", 
+    "endTime" : "22:05:39"
+},
+{ 
+    "_id" : ObjectId("5ea410fbe774d45934207eef"), 
+    "cyclepath_id" : NumberInt(320), 
+    "tripID" : "5e83baf1ce8af339f2c2f0cf", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:35", 
+    "endTime" : "22:05:39"
+},
+{ 
+    "_id" : ObjectId("5ea410fbe774d45934207ef0"), 
+    "cyclepath_id" : NumberInt(219), 
+    "tripID" : "5e83baf1ce8af339f2c2f0cf", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:35", 
+    "endTime" : "22:05:39"
+},
+{ 
+    "_id" : ObjectId("5ea410fbe774d45934207ef1"), 
+    "cyclepath_id" : NumberInt(221), 
+    "tripID" : "5e83baf1ce8af339f2c2f0cf", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:35", 
+    "endTime" : "22:05:39"
+},
+{ 
+    "_id" : ObjectId("5ea410fbe774d45934207ef2"), 
+    "cyclepath_id" : NumberInt(222), 
+    "tripID" : "5e83baf1ce8af339f2c2f0cf", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:35", 
+    "endTime" : "22:05:39"
+},
+{ 
+    "_id" : ObjectId("5ea410fbe774d45934207ef3"), 
+    "cyclepath_id" : NumberInt(251), 
+    "tripID" : "5e83baf1ce8af339f2c2f0cf", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:35", 
+    "endTime" : "22:05:39"
+},
+{ 
+    "_id" : ObjectId("5ea410fbe774d45934207ef4"), 
+    "cyclepath_id" : NumberInt(223), 
+    "tripID" : "5e83baf1ce8af339f2c2f0cf", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:35", 
+    "endTime" : "22:05:39"
+},
+{ 
+    "_id" : ObjectId("5ea410fbe774d45934207ef7"), 
+    "cyclepath_id" : NumberInt(329), 
+    "tripID" : "5e83baf1ce8af339f2c2f0cf", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:35", 
+    "endTime" : "22:05:39"
+},
+{ 
+    "_id" : ObjectId("5ea410fbe774d45934207ef8"), 
+    "cyclepath_id" : NumberInt(330), 
+    "tripID" : "5e83baf1ce8af339f2c2f0cf", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:35", 
+    "endTime" : "22:05:39"
+},
+{ 
+    "_id" : ObjectId("5ea410ff114c7a319ffcc8c8"), 
+    "cyclepath_id" : NumberInt(78), 
+    "tripID" : "5e83baf1ce8af339f2c2f0cf", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:35", 
+    "endTime" : "22:05:39"
+},
+{ 
+    "_id" : ObjectId("5ea410ff114c7a319ffcc8c9"), 
+    "cyclepath_id" : NumberInt(263), 
+    "tripID" : "5e83baf1ce8af339f2c2f0cf", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:35", 
+    "endTime" : "22:05:39"
+},
+{ 
+    "_id" : ObjectId("5ea410ff114c7a319ffcc8ca"), 
+    "cyclepath_id" : NumberInt(329), 
+    "tripID" : "5e83baf1ce8af339f2c2f0cf", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:35", 
+    "endTime" : "22:05:39"
+},
+{ 
+    "_id" : ObjectId("5ea410ff114c7a319ffcc8cb"), 
+    "cyclepath_id" : NumberInt(121), 
+    "tripID" : "5e83baf1ce8af339f2c2f0cf", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:35", 
+    "endTime" : "22:05:39"
+},
+{ 
+    "_id" : ObjectId("5ea410ff114c7a319ffcc8cc"), 
+    "cyclepath_id" : NumberInt(320), 
+    "tripID" : "5e83baf1ce8af339f2c2f0cf", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:35", 
+    "endTime" : "22:05:39"
+},
+{ 
+    "_id" : ObjectId("5ea410ff114c7a319ffcc8cd"), 
+    "cyclepath_id" : NumberInt(330), 
+    "tripID" : "5e83baf1ce8af339f2c2f0cf", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:35", 
+    "endTime" : "22:05:39"
+},
+{ 
+    "_id" : ObjectId("5ea410ff114c7a319ffcc8ce"), 
+    "cyclepath_id" : NumberInt(219), 
+    "tripID" : "5e83baf1ce8af339f2c2f0cf", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:35", 
+    "endTime" : "22:05:39"
+},
+{ 
+    "_id" : ObjectId("5ea410ff114c7a319ffcc8cf"), 
+    "cyclepath_id" : NumberInt(221), 
+    "tripID" : "5e83baf1ce8af339f2c2f0cf", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:35", 
+    "endTime" : "22:05:39"
+},
+{ 
+    "_id" : ObjectId("5ea410ff114c7a319ffcc8d0"), 
+    "cyclepath_id" : NumberInt(222), 
+    "tripID" : "5e83baf1ce8af339f2c2f0cf", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:35", 
+    "endTime" : "22:05:39"
+},
+{ 
+    "_id" : ObjectId("5ea410ff114c7a319ffcc8d1"), 
+    "cyclepath_id" : NumberInt(251), 
+    "tripID" : "5e83baf1ce8af339f2c2f0cf", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:35", 
+    "endTime" : "22:05:39"
+},
+{ 
+    "_id" : ObjectId("5ea410ff114c7a319ffcc8d2"), 
+    "cyclepath_id" : NumberInt(223), 
+    "tripID" : "5e83baf1ce8af339f2c2f0cf", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:35", 
+    "endTime" : "22:05:39"
+},
+{ 
+    "_id" : ObjectId("5ea41104ce74ca5b3c3d839a"), 
+    "cyclepath_id" : NumberInt(29), 
+    "tripID" : "5e9abb63ed1548dd20d3a69a", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:33:37", 
+    "endTime" : "08:44:37"
+},
+{ 
+    "_id" : ObjectId("5ea41104ce74ca5b3c3d839b"), 
+    "cyclepath_id" : NumberInt(80), 
+    "tripID" : "5e9abb63ed1548dd20d3a69a", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:33:37", 
+    "endTime" : "08:44:37"
+},
+{ 
+    "_id" : ObjectId("5ea41104ce74ca5b3c3d839c"), 
+    "cyclepath_id" : NumberInt(236), 
+    "tripID" : "5e9abb63ed1548dd20d3a69a", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:33:37", 
+    "endTime" : "08:44:37"
+},
+{ 
+    "_id" : ObjectId("5ea41104ce74ca5b3c3d839d"), 
+    "cyclepath_id" : NumberInt(225), 
+    "tripID" : "5e9abb63ed1548dd20d3a69a", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:33:37", 
+    "endTime" : "08:44:37"
+},
+{ 
+    "_id" : ObjectId("5ea41104ce74ca5b3c3d839e"), 
+    "cyclepath_id" : NumberInt(289), 
+    "tripID" : "5e9abb63ed1548dd20d3a69a", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:33:37", 
+    "endTime" : "08:44:37"
+},
+{ 
+    "_id" : ObjectId("5ea41104ce74ca5b3c3d839f"), 
+    "cyclepath_id" : NumberInt(103), 
+    "tripID" : "5e9abb63ed1548dd20d3a69a", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:33:37", 
+    "endTime" : "08:44:37"
+},
+{ 
+    "_id" : ObjectId("5ea41106ce74ca5b3c3d83a5"), 
+    "cyclepath_id" : NumberInt(331), 
+    "tripID" : "5e9abb63ed1548dd20d3a69a", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:33:37", 
+    "endTime" : "08:44:37"
+},
+{ 
+    "_id" : ObjectId("5ea41106ce74ca5b3c3d83a6"), 
+    "cyclepath_id" : NumberInt(332), 
+    "tripID" : "5e9abb63ed1548dd20d3a69a", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:33:37", 
+    "endTime" : "08:44:37"
+},
+{ 
+    "_id" : ObjectId("5ea41106ce74ca5b3c3d83a7"), 
+    "cyclepath_id" : NumberInt(333), 
+    "tripID" : "5e9abb63ed1548dd20d3a69a", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:33:37", 
+    "endTime" : "08:44:37"
+},
+{ 
+    "_id" : ObjectId("5ea41106ce74ca5b3c3d83a8"), 
+    "cyclepath_id" : NumberInt(334), 
+    "tripID" : "5e9abb63ed1548dd20d3a69a", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:33:37", 
+    "endTime" : "08:44:37"
+},
+{ 
+    "_id" : ObjectId("5ea41106ce74ca5b3c3d83a9"), 
+    "cyclepath_id" : NumberInt(335), 
+    "tripID" : "5e9abb63ed1548dd20d3a69a", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:33:37", 
+    "endTime" : "08:44:37"
+},
+{ 
+    "_id" : ObjectId("5ea4110a6a875f0e09deec66"), 
+    "cyclepath_id" : NumberInt(78), 
+    "tripID" : "5e9abb95ed1548dd20d3a69f", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:27", 
+    "endTime" : "08:56:35"
+},
+{ 
+    "_id" : ObjectId("5ea4110a6a875f0e09deec67"), 
+    "cyclepath_id" : NumberInt(263), 
+    "tripID" : "5e9abb95ed1548dd20d3a69f", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:27", 
+    "endTime" : "08:56:35"
+},
+{ 
+    "_id" : ObjectId("5ea4110a6a875f0e09deec68"), 
+    "cyclepath_id" : NumberInt(235), 
+    "tripID" : "5e9abb95ed1548dd20d3a69f", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:27", 
+    "endTime" : "08:56:35"
+},
+{ 
+    "_id" : ObjectId("5ea4110a6a875f0e09deec69"), 
+    "cyclepath_id" : NumberInt(324), 
+    "tripID" : "5e9abb95ed1548dd20d3a69f", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:27", 
+    "endTime" : "08:56:35"
+},
+{ 
+    "_id" : ObjectId("5ea4110a6a875f0e09deec6a"), 
+    "cyclepath_id" : NumberInt(236), 
+    "tripID" : "5e9abb95ed1548dd20d3a69f", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:27", 
+    "endTime" : "08:56:35"
+},
+{ 
+    "_id" : ObjectId("5ea4110a6a875f0e09deec6b"), 
+    "cyclepath_id" : NumberInt(311), 
+    "tripID" : "5e9abb95ed1548dd20d3a69f", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:27", 
+    "endTime" : "08:56:35"
+},
+{ 
+    "_id" : ObjectId("5ea4110a6a875f0e09deec6c"), 
+    "cyclepath_id" : NumberInt(84), 
+    "tripID" : "5e9abb95ed1548dd20d3a69f", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:27", 
+    "endTime" : "08:56:35"
+},
+{ 
+    "_id" : ObjectId("5ea4110a6a875f0e09deec6d"), 
+    "cyclepath_id" : NumberInt(205), 
+    "tripID" : "5e9abb95ed1548dd20d3a69f", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:27", 
+    "endTime" : "08:56:35"
+},
+{ 
+    "_id" : ObjectId("5ea4110a6a875f0e09deec6e"), 
+    "cyclepath_id" : NumberInt(237), 
+    "tripID" : "5e9abb95ed1548dd20d3a69f", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:27", 
+    "endTime" : "08:56:35"
+},
+{ 
+    "_id" : ObjectId("5ea4110a6a875f0e09deec6f"), 
+    "cyclepath_id" : NumberInt(206), 
+    "tripID" : "5e9abb95ed1548dd20d3a69f", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:27", 
+    "endTime" : "08:56:35"
+},
+{ 
+    "_id" : ObjectId("5ea4110a6a875f0e09deec70"), 
+    "cyclepath_id" : NumberInt(85), 
+    "tripID" : "5e9abb95ed1548dd20d3a69f", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:27", 
+    "endTime" : "08:56:35"
+},
+{ 
+    "_id" : ObjectId("5ea4110a6a875f0e09deec71"), 
+    "cyclepath_id" : NumberInt(238), 
+    "tripID" : "5e9abb95ed1548dd20d3a69f", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:27", 
+    "endTime" : "08:56:35"
+},
+{ 
+    "_id" : ObjectId("5ea4110a6a875f0e09deec72"), 
+    "cyclepath_id" : NumberInt(239), 
+    "tripID" : "5e9abb95ed1548dd20d3a69f", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:27", 
+    "endTime" : "08:56:35"
+},
+{ 
+    "_id" : ObjectId("5ea4110a6a875f0e09deec73"), 
+    "cyclepath_id" : NumberInt(211), 
+    "tripID" : "5e9abb95ed1548dd20d3a69f", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:27", 
+    "endTime" : "08:56:35"
+},
+{ 
+    "_id" : ObjectId("5ea4110a6a875f0e09deec74"), 
+    "cyclepath_id" : NumberInt(245), 
+    "tripID" : "5e9abb95ed1548dd20d3a69f", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:27", 
+    "endTime" : "08:56:35"
+},
+{ 
+    "_id" : ObjectId("5ea4110a6a875f0e09deec75"), 
+    "cyclepath_id" : NumberInt(269), 
+    "tripID" : "5e9abb95ed1548dd20d3a69f", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:27", 
+    "endTime" : "08:56:35"
+},
+{ 
+    "_id" : ObjectId("5ea4110a6a875f0e09deec76"), 
+    "cyclepath_id" : NumberInt(249), 
+    "tripID" : "5e9abb95ed1548dd20d3a69f", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:27", 
+    "endTime" : "08:56:35"
+},
+{ 
+    "_id" : ObjectId("5ea4110a6a875f0e09deec77"), 
+    "cyclepath_id" : NumberInt(250), 
+    "tripID" : "5e9abb95ed1548dd20d3a69f", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:27", 
+    "endTime" : "08:56:35"
+},
+{ 
+    "_id" : ObjectId("5ea4110a6a875f0e09deec78"), 
+    "cyclepath_id" : NumberInt(251), 
+    "tripID" : "5e9abb95ed1548dd20d3a69f", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:27", 
+    "endTime" : "08:56:35"
+},
+{ 
+    "_id" : ObjectId("5ea4110a6a875f0e09deec79"), 
+    "cyclepath_id" : NumberInt(252), 
+    "tripID" : "5e9abb95ed1548dd20d3a69f", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:27", 
+    "endTime" : "08:56:35"
+},
+{ 
+    "_id" : ObjectId("5ea4110c6a875f0e09deec80"), 
+    "cyclepath_id" : NumberInt(336), 
+    "tripID" : "5e9abb95ed1548dd20d3a69f", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:27", 
+    "endTime" : "08:56:35"
+},
+{ 
+    "_id" : ObjectId("5ea4110c6a875f0e09deec81"), 
+    "cyclepath_id" : NumberInt(337), 
+    "tripID" : "5e9abb95ed1548dd20d3a69f", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:27", 
+    "endTime" : "08:56:35"
+},
+{ 
+    "_id" : ObjectId("5ea4110c6a875f0e09deec82"), 
+    "cyclepath_id" : NumberInt(338), 
+    "tripID" : "5e9abb95ed1548dd20d3a69f", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:27", 
+    "endTime" : "08:56:35"
+},
+{ 
+    "_id" : ObjectId("5ea4110c6a875f0e09deec83"), 
+    "cyclepath_id" : NumberInt(339), 
+    "tripID" : "5e9abb95ed1548dd20d3a69f", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:27", 
+    "endTime" : "08:56:35"
+},
+{ 
+    "_id" : ObjectId("5ea4110c6a875f0e09deec84"), 
+    "cyclepath_id" : NumberInt(340), 
+    "tripID" : "5e9abb95ed1548dd20d3a69f", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:27", 
+    "endTime" : "08:56:35"
+},
+{ 
+    "_id" : ObjectId("5ea4110c6a875f0e09deec85"), 
+    "cyclepath_id" : NumberInt(341), 
+    "tripID" : "5e9abb95ed1548dd20d3a69f", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:27", 
+    "endTime" : "08:56:35"
+},
+{ 
+    "_id" : ObjectId("5ea4110f80ffe8ece24b4b54"), 
+    "cyclepath_id" : NumberInt(88), 
+    "tripID" : "5e83bc9bce8af339f2c2f104", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:56:41", 
+    "endTime" : "22:06:19"
+},
+{ 
+    "_id" : ObjectId("5ea4110f80ffe8ece24b4b55"), 
+    "cyclepath_id" : NumberInt(224), 
+    "tripID" : "5e83bc9bce8af339f2c2f104", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:56:41", 
+    "endTime" : "22:06:19"
+},
+{ 
+    "_id" : ObjectId("5ea4110f80ffe8ece24b4b56"), 
+    "cyclepath_id" : NumberInt(295), 
+    "tripID" : "5e83bc9bce8af339f2c2f104", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:56:41", 
+    "endTime" : "22:06:19"
+},
+{ 
+    "_id" : ObjectId("5ea4110f80ffe8ece24b4b57"), 
+    "cyclepath_id" : NumberInt(87), 
+    "tripID" : "5e83bc9bce8af339f2c2f104", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:56:41", 
+    "endTime" : "22:06:19"
+},
+{ 
+    "_id" : ObjectId("5ea4110f80ffe8ece24b4b58"), 
+    "cyclepath_id" : NumberInt(283), 
+    "tripID" : "5e83bc9bce8af339f2c2f104", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:56:41", 
+    "endTime" : "22:06:19"
+},
+{ 
+    "_id" : ObjectId("5ea4110f80ffe8ece24b4b59"), 
+    "cyclepath_id" : NumberInt(19), 
+    "tripID" : "5e83bc9bce8af339f2c2f104", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:56:41", 
+    "endTime" : "22:06:19"
+},
+{ 
+    "_id" : ObjectId("5ea41113c84786b6bc42ebd6"), 
+    "cyclepath_id" : NumberInt(235), 
+    "tripID" : "5e83ba14ce8af339f2c2f0b3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:54", 
+    "endTime" : "22:04:16"
+},
+{ 
+    "_id" : ObjectId("5ea41113c84786b6bc42ebd7"), 
+    "cyclepath_id" : NumberInt(330), 
+    "tripID" : "5e83ba14ce8af339f2c2f0b3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:54", 
+    "endTime" : "22:04:16"
+},
+{ 
+    "_id" : ObjectId("5ea41113c84786b6bc42ebd8"), 
+    "cyclepath_id" : NumberInt(337), 
+    "tripID" : "5e83ba14ce8af339f2c2f0b3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:54", 
+    "endTime" : "22:04:16"
+},
+{ 
+    "_id" : ObjectId("5ea41113c84786b6bc42ebd9"), 
+    "cyclepath_id" : NumberInt(240), 
+    "tripID" : "5e83ba14ce8af339f2c2f0b3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:54", 
+    "endTime" : "22:04:16"
+},
+{ 
+    "_id" : ObjectId("5ea41113c84786b6bc42ebda"), 
+    "cyclepath_id" : NumberInt(246), 
+    "tripID" : "5e83ba14ce8af339f2c2f0b3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:54", 
+    "endTime" : "22:04:16"
+},
+{ 
+    "_id" : ObjectId("5ea41113c84786b6bc42ebdb"), 
+    "cyclepath_id" : NumberInt(25), 
+    "tripID" : "5e83ba14ce8af339f2c2f0b3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:54", 
+    "endTime" : "22:04:16"
+},
+{ 
+    "_id" : ObjectId("5ea41116c84786b6bc42ebea"), 
+    "cyclepath_id" : NumberInt(342), 
+    "tripID" : "5e83ba14ce8af339f2c2f0b3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:54", 
+    "endTime" : "22:04:16"
+},
+{ 
+    "_id" : ObjectId("5ea41116c84786b6bc42ebeb"), 
+    "cyclepath_id" : NumberInt(343), 
+    "tripID" : "5e83ba14ce8af339f2c2f0b3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:54", 
+    "endTime" : "22:04:16"
+},
+{ 
+    "_id" : ObjectId("5ea41116c84786b6bc42ebec"), 
+    "cyclepath_id" : NumberInt(344), 
+    "tripID" : "5e83ba14ce8af339f2c2f0b3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:54", 
+    "endTime" : "22:04:16"
+},
+{ 
+    "_id" : ObjectId("5ea41116c84786b6bc42ebed"), 
+    "cyclepath_id" : NumberInt(345), 
+    "tripID" : "5e83ba14ce8af339f2c2f0b3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:54", 
+    "endTime" : "22:04:16"
+},
+{ 
+    "_id" : ObjectId("5ea41116c84786b6bc42ebee"), 
+    "cyclepath_id" : NumberInt(346), 
+    "tripID" : "5e83ba14ce8af339f2c2f0b3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:54", 
+    "endTime" : "22:04:16"
+},
+{ 
+    "_id" : ObjectId("5ea41116c84786b6bc42ebef"), 
+    "cyclepath_id" : NumberInt(347), 
+    "tripID" : "5e83ba14ce8af339f2c2f0b3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:54", 
+    "endTime" : "22:04:16"
+},
+{ 
+    "_id" : ObjectId("5ea41116c84786b6bc42ebf0"), 
+    "cyclepath_id" : NumberInt(348), 
+    "tripID" : "5e83ba14ce8af339f2c2f0b3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:54", 
+    "endTime" : "22:04:16"
+},
+{ 
+    "_id" : ObjectId("5ea41116c84786b6bc42ebf1"), 
+    "cyclepath_id" : NumberInt(349), 
+    "tripID" : "5e83ba14ce8af339f2c2f0b3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:54", 
+    "endTime" : "22:04:16"
+},
+{ 
+    "_id" : ObjectId("5ea41116c84786b6bc42ebf2"), 
+    "cyclepath_id" : NumberInt(350), 
+    "tripID" : "5e83ba14ce8af339f2c2f0b3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:54", 
+    "endTime" : "22:04:16"
+},
+{ 
+    "_id" : ObjectId("5ea41116c84786b6bc42ebf3"), 
+    "cyclepath_id" : NumberInt(351), 
+    "tripID" : "5e83ba14ce8af339f2c2f0b3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:54", 
+    "endTime" : "22:04:16"
+},
+{ 
+    "_id" : ObjectId("5ea41116c84786b6bc42ebf4"), 
+    "cyclepath_id" : NumberInt(352), 
+    "tripID" : "5e83ba14ce8af339f2c2f0b3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:54", 
+    "endTime" : "22:04:16"
+},
+{ 
+    "_id" : ObjectId("5ea41116c84786b6bc42ebf5"), 
+    "cyclepath_id" : NumberInt(353), 
+    "tripID" : "5e83ba14ce8af339f2c2f0b3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:54", 
+    "endTime" : "22:04:16"
+},
+{ 
+    "_id" : ObjectId("5ea41116c84786b6bc42ebf6"), 
+    "cyclepath_id" : NumberInt(354), 
+    "tripID" : "5e83ba14ce8af339f2c2f0b3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:54", 
+    "endTime" : "22:04:16"
+},
+{ 
+    "_id" : ObjectId("5ea41116c84786b6bc42ebf7"), 
+    "cyclepath_id" : NumberInt(355), 
+    "tripID" : "5e83ba14ce8af339f2c2f0b3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:45:54", 
+    "endTime" : "22:04:16"
+},
+{ 
+    "_id" : ObjectId("5ea4111ae0825157fa6cd6fa"), 
+    "cyclepath_id" : NumberInt(293), 
+    "tripID" : "5e9abb8bed1548dd20d3a69e", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:17", 
+    "endTime" : "08:48:09"
+},
+{ 
+    "_id" : ObjectId("5ea4111ae0825157fa6cd6fb"), 
+    "cyclepath_id" : NumberInt(319), 
+    "tripID" : "5e9abb8bed1548dd20d3a69e", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:17", 
+    "endTime" : "08:48:09"
+},
+{ 
+    "_id" : ObjectId("5ea4111ae0825157fa6cd6fc"), 
+    "cyclepath_id" : NumberInt(224), 
+    "tripID" : "5e9abb8bed1548dd20d3a69e", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:17", 
+    "endTime" : "08:48:09"
+},
+{ 
+    "_id" : ObjectId("5ea4111ae0825157fa6cd6fd"), 
+    "cyclepath_id" : NumberInt(323), 
+    "tripID" : "5e9abb8bed1548dd20d3a69e", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:17", 
+    "endTime" : "08:48:09"
+},
+{ 
+    "_id" : ObjectId("5ea4111ae0825157fa6cd6fe"), 
+    "cyclepath_id" : NumberInt(280), 
+    "tripID" : "5e9abb8bed1548dd20d3a69e", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:17", 
+    "endTime" : "08:48:09"
+},
+{ 
+    "_id" : ObjectId("5ea4111ae0825157fa6cd6ff"), 
+    "cyclepath_id" : NumberInt(321), 
+    "tripID" : "5e9abb8bed1548dd20d3a69e", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:17", 
+    "endTime" : "08:48:09"
+},
+{ 
+    "_id" : ObjectId("5ea4111be0825157fa6cd705"), 
+    "cyclepath_id" : NumberInt(356), 
+    "tripID" : "5e9abb8bed1548dd20d3a69e", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:17", 
+    "endTime" : "08:48:09"
+},
+{ 
+    "_id" : ObjectId("5ea4111be0825157fa6cd706"), 
+    "cyclepath_id" : NumberInt(357), 
+    "tripID" : "5e9abb8bed1548dd20d3a69e", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:17", 
+    "endTime" : "08:48:09"
+},
+{ 
+    "_id" : ObjectId("5ea4111be0825157fa6cd707"), 
+    "cyclepath_id" : NumberInt(358), 
+    "tripID" : "5e9abb8bed1548dd20d3a69e", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:17", 
+    "endTime" : "08:48:09"
+},
+{ 
+    "_id" : ObjectId("5ea4111be0825157fa6cd708"), 
+    "cyclepath_id" : NumberInt(359), 
+    "tripID" : "5e9abb8bed1548dd20d3a69e", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:17", 
+    "endTime" : "08:48:09"
+},
+{ 
+    "_id" : ObjectId("5ea4111be0825157fa6cd709"), 
+    "cyclepath_id" : NumberInt(360), 
+    "tripID" : "5e9abb8bed1548dd20d3a69e", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:34:17", 
+    "endTime" : "08:48:09"
+},
+{ 
+    "_id" : ObjectId("5ea4112052a46b78774bbb36"), 
+    "cyclepath_id" : NumberInt(64), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112052a46b78774bbb37"), 
+    "cyclepath_id" : NumberInt(293), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112052a46b78774bbb38"), 
+    "cyclepath_id" : NumberInt(295), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112052a46b78774bbb39"), 
+    "cyclepath_id" : NumberInt(87), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112052a46b78774bbb3a"), 
+    "cyclepath_id" : NumberInt(283), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112052a46b78774bbb3b"), 
+    "cyclepath_id" : NumberInt(61), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112052a46b78774bbb3c"), 
+    "cyclepath_id" : NumberInt(236), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112052a46b78774bbb3d"), 
+    "cyclepath_id" : NumberInt(313), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112052a46b78774bbb3e"), 
+    "cyclepath_id" : NumberInt(297), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112052a46b78774bbb3f"), 
+    "cyclepath_id" : NumberInt(19), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112052a46b78774bbb40"), 
+    "cyclepath_id" : NumberInt(314), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112052a46b78774bbb41"), 
+    "cyclepath_id" : NumberInt(359), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112052a46b78774bbb42"), 
+    "cyclepath_id" : NumberInt(359), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112052a46b78774bbb43"), 
+    "cyclepath_id" : NumberInt(85), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112052a46b78774bbb44"), 
+    "cyclepath_id" : NumberInt(238), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112052a46b78774bbb45"), 
+    "cyclepath_id" : NumberInt(301), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112052a46b78774bbb46"), 
+    "cyclepath_id" : NumberInt(213), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112052a46b78774bbb47"), 
+    "cyclepath_id" : NumberInt(287), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112052a46b78774bbb48"), 
+    "cyclepath_id" : NumberInt(83), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112052a46b78774bbb49"), 
+    "cyclepath_id" : NumberInt(251), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112252a46b78774bbb56"), 
+    "cyclepath_id" : NumberInt(361), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112252a46b78774bbb57"), 
+    "cyclepath_id" : NumberInt(362), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112252a46b78774bbb58"), 
+    "cyclepath_id" : NumberInt(363), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112252a46b78774bbb59"), 
+    "cyclepath_id" : NumberInt(364), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112252a46b78774bbb5a"), 
+    "cyclepath_id" : NumberInt(365), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112252a46b78774bbb5b"), 
+    "cyclepath_id" : NumberInt(366), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112252a46b78774bbb5c"), 
+    "cyclepath_id" : NumberInt(367), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112252a46b78774bbb5d"), 
+    "cyclepath_id" : NumberInt(368), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112252a46b78774bbb5e"), 
+    "cyclepath_id" : NumberInt(369), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112252a46b78774bbb5f"), 
+    "cyclepath_id" : NumberInt(370), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112252a46b78774bbb60"), 
+    "cyclepath_id" : NumberInt(371), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112252a46b78774bbb61"), 
+    "cyclepath_id" : NumberInt(372), 
+    "tripID" : "5e83bc6dce8af339f2c2f0fe", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:55:55", 
+    "endTime" : "22:22:02"
+},
+{ 
+    "_id" : ObjectId("5ea4112817601b0b8f809cad"), 
+    "cyclepath_id" : NumberInt(88), 
+    "tripID" : "5e83ba1bce8af339f2c2f0b4", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:01", 
+    "endTime" : "22:05:13"
+},
+{ 
+    "_id" : ObjectId("5ea4112817601b0b8f809cae"), 
+    "cyclepath_id" : NumberInt(224), 
+    "tripID" : "5e83ba1bce8af339f2c2f0b4", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:01", 
+    "endTime" : "22:05:13"
+},
+{ 
+    "_id" : ObjectId("5ea4112817601b0b8f809caf"), 
+    "cyclepath_id" : NumberInt(323), 
+    "tripID" : "5e83ba1bce8af339f2c2f0b4", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:01", 
+    "endTime" : "22:05:13"
+},
+{ 
+    "_id" : ObjectId("5ea4112817601b0b8f809cb0"), 
+    "cyclepath_id" : NumberInt(104), 
+    "tripID" : "5e83ba1bce8af339f2c2f0b4", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:01", 
+    "endTime" : "22:05:13"
+},
+{ 
+    "_id" : ObjectId("5ea4112817601b0b8f809cb1"), 
+    "cyclepath_id" : NumberInt(281), 
+    "tripID" : "5e83ba1bce8af339f2c2f0b4", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:01", 
+    "endTime" : "22:05:13"
+},
+{ 
+    "_id" : ObjectId("5ea4112817601b0b8f809cb2"), 
+    "cyclepath_id" : NumberInt(312), 
+    "tripID" : "5e83ba1bce8af339f2c2f0b4", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:01", 
+    "endTime" : "22:05:13"
+},
+{ 
+    "_id" : ObjectId("5ea4112817601b0b8f809cb3"), 
+    "cyclepath_id" : NumberInt(225), 
+    "tripID" : "5e83ba1bce8af339f2c2f0b4", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:01", 
+    "endTime" : "22:05:13"
+},
+{ 
+    "_id" : ObjectId("5ea4112817601b0b8f809cb4"), 
+    "cyclepath_id" : NumberInt(357), 
+    "tripID" : "5e83ba1bce8af339f2c2f0b4", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:01", 
+    "endTime" : "22:05:13"
+},
+{ 
+    "_id" : ObjectId("5ea4112817601b0b8f809cb5"), 
+    "cyclepath_id" : NumberInt(19), 
+    "tripID" : "5e83ba1bce8af339f2c2f0b4", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:01", 
+    "endTime" : "22:05:13"
+},
+{ 
+    "_id" : ObjectId("5ea4112817601b0b8f809cb6"), 
+    "cyclepath_id" : NumberInt(314), 
+    "tripID" : "5e83ba1bce8af339f2c2f0b4", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:01", 
+    "endTime" : "22:05:13"
+},
+{ 
+    "_id" : ObjectId("5ea4112817601b0b8f809cb7"), 
+    "cyclepath_id" : NumberInt(265), 
+    "tripID" : "5e83ba1bce8af339f2c2f0b4", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:01", 
+    "endTime" : "22:05:13"
+},
+{ 
+    "_id" : ObjectId("5ea4112817601b0b8f809cb8"), 
+    "cyclepath_id" : NumberInt(267), 
+    "tripID" : "5e83ba1bce8af339f2c2f0b4", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:01", 
+    "endTime" : "22:05:13"
+},
+{ 
+    "_id" : ObjectId("5ea4112817601b0b8f809cb9"), 
+    "cyclepath_id" : NumberInt(271), 
+    "tripID" : "5e83ba1bce8af339f2c2f0b4", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:01", 
+    "endTime" : "22:05:13"
+},
+{ 
+    "_id" : ObjectId("5ea4112817601b0b8f809cba"), 
+    "cyclepath_id" : NumberInt(273), 
+    "tripID" : "5e83ba1bce8af339f2c2f0b4", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:01", 
+    "endTime" : "22:05:13"
+},
+{ 
+    "_id" : ObjectId("5ea4112817601b0b8f809cbb"), 
+    "cyclepath_id" : NumberInt(274), 
+    "tripID" : "5e83ba1bce8af339f2c2f0b4", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:01", 
+    "endTime" : "22:05:13"
+},
+{ 
+    "_id" : ObjectId("5ea4112917601b0b8f809cc2"), 
+    "cyclepath_id" : NumberInt(373), 
+    "tripID" : "5e83ba1bce8af339f2c2f0b4", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:01", 
+    "endTime" : "22:05:13"
+},
+{ 
+    "_id" : ObjectId("5ea4112917601b0b8f809cc3"), 
+    "cyclepath_id" : NumberInt(374), 
+    "tripID" : "5e83ba1bce8af339f2c2f0b4", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:01", 
+    "endTime" : "22:05:13"
+},
+{ 
+    "_id" : ObjectId("5ea4112917601b0b8f809cc4"), 
+    "cyclepath_id" : NumberInt(375), 
+    "tripID" : "5e83ba1bce8af339f2c2f0b4", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:01", 
+    "endTime" : "22:05:13"
+},
+{ 
+    "_id" : ObjectId("5ea4112917601b0b8f809cc5"), 
+    "cyclepath_id" : NumberInt(376), 
+    "tripID" : "5e83ba1bce8af339f2c2f0b4", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:01", 
+    "endTime" : "22:05:13"
+},
+{ 
+    "_id" : ObjectId("5ea4112917601b0b8f809cc6"), 
+    "cyclepath_id" : NumberInt(377), 
+    "tripID" : "5e83ba1bce8af339f2c2f0b4", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:01", 
+    "endTime" : "22:05:13"
+},
+{ 
+    "_id" : ObjectId("5ea4112917601b0b8f809cc7"), 
+    "cyclepath_id" : NumberInt(378), 
+    "tripID" : "5e83ba1bce8af339f2c2f0b4", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:01", 
+    "endTime" : "22:05:13"
+},
+{ 
+    "_id" : ObjectId("5ea4112db5e3ca6b41add065"), 
+    "cyclepath_id" : NumberInt(98), 
+    "tripID" : "5e83bccace8af339f2c2f10a", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:28", 
+    "endTime" : "22:10:39"
+},
+{ 
+    "_id" : ObjectId("5ea4112db5e3ca6b41add066"), 
+    "cyclepath_id" : NumberInt(282), 
+    "tripID" : "5e83bccace8af339f2c2f10a", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:28", 
+    "endTime" : "22:10:39"
+},
+{ 
+    "_id" : ObjectId("5ea4112db5e3ca6b41add067"), 
+    "cyclepath_id" : NumberInt(234), 
+    "tripID" : "5e83bccace8af339f2c2f10a", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:28", 
+    "endTime" : "22:10:39"
+},
+{ 
+    "_id" : ObjectId("5ea4112db5e3ca6b41add068"), 
+    "cyclepath_id" : NumberInt(88), 
+    "tripID" : "5e83bccace8af339f2c2f10a", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:28", 
+    "endTime" : "22:10:39"
+},
+{ 
+    "_id" : ObjectId("5ea4112db5e3ca6b41add069"), 
+    "cyclepath_id" : NumberInt(8), 
+    "tripID" : "5e83bccace8af339f2c2f10a", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:28", 
+    "endTime" : "22:10:39"
+},
+{ 
+    "_id" : ObjectId("5ea4112db5e3ca6b41add06a"), 
+    "cyclepath_id" : NumberInt(87), 
+    "tripID" : "5e83bccace8af339f2c2f10a", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:28", 
+    "endTime" : "22:10:39"
+},
+{ 
+    "_id" : ObjectId("5ea4112db5e3ca6b41add06b"), 
+    "cyclepath_id" : NumberInt(283), 
+    "tripID" : "5e83bccace8af339f2c2f10a", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:28", 
+    "endTime" : "22:10:39"
+},
+{ 
+    "_id" : ObjectId("5ea4112db5e3ca6b41add06c"), 
+    "cyclepath_id" : NumberInt(288), 
+    "tripID" : "5e83bccace8af339f2c2f10a", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:28", 
+    "endTime" : "22:10:39"
+},
+{ 
+    "_id" : ObjectId("5ea4112db5e3ca6b41add06d"), 
+    "cyclepath_id" : NumberInt(284), 
+    "tripID" : "5e83bccace8af339f2c2f10a", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:28", 
+    "endTime" : "22:10:39"
+},
+{ 
+    "_id" : ObjectId("5ea4112db5e3ca6b41add06e"), 
+    "cyclepath_id" : NumberInt(1), 
+    "tripID" : "5e83bccace8af339f2c2f10a", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:28", 
+    "endTime" : "22:10:39"
+},
+{ 
+    "_id" : ObjectId("5ea4112db5e3ca6b41add06f"), 
+    "cyclepath_id" : NumberInt(258), 
+    "tripID" : "5e83bccace8af339f2c2f10a", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:28", 
+    "endTime" : "22:10:39"
+},
+{ 
+    "_id" : ObjectId("5ea4112db5e3ca6b41add070"), 
+    "cyclepath_id" : NumberInt(326), 
+    "tripID" : "5e83bccace8af339f2c2f10a", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:28", 
+    "endTime" : "22:10:39"
+},
+{ 
+    "_id" : ObjectId("5ea4112db5e3ca6b41add073"), 
+    "cyclepath_id" : NumberInt(379), 
+    "tripID" : "5e83bccace8af339f2c2f10a", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:28", 
+    "endTime" : "22:10:39"
+},
+{ 
+    "_id" : ObjectId("5ea4112db5e3ca6b41add074"), 
+    "cyclepath_id" : NumberInt(380), 
+    "tripID" : "5e83bccace8af339f2c2f10a", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:57:28", 
+    "endTime" : "22:10:39"
+},
+{ 
+    "_id" : ObjectId("5ea4113182cbfeac8ae95e3a"), 
+    "cyclepath_id" : NumberInt(28), 
+    "tripID" : "5e83ba43ce8af339f2c2f0b9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:41", 
+    "endTime" : "21:54:50"
+},
+{ 
+    "_id" : ObjectId("5ea4113182cbfeac8ae95e3b"), 
+    "cyclepath_id" : NumberInt(142), 
+    "tripID" : "5e83ba43ce8af339f2c2f0b9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:41", 
+    "endTime" : "21:54:50"
+},
+{ 
+    "_id" : ObjectId("5ea4113182cbfeac8ae95e3c"), 
+    "cyclepath_id" : NumberInt(323), 
+    "tripID" : "5e83ba43ce8af339f2c2f0b9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:41", 
+    "endTime" : "21:54:50"
+},
+{ 
+    "_id" : ObjectId("5ea4113182cbfeac8ae95e3d"), 
+    "cyclepath_id" : NumberInt(8), 
+    "tripID" : "5e83ba43ce8af339f2c2f0b9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:41", 
+    "endTime" : "21:54:50"
+},
+{ 
+    "_id" : ObjectId("5ea4113182cbfeac8ae95e3e"), 
+    "cyclepath_id" : NumberInt(288), 
+    "tripID" : "5e83ba43ce8af339f2c2f0b9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:41", 
+    "endTime" : "21:54:50"
+},
+{ 
+    "_id" : ObjectId("5ea4113182cbfeac8ae95e3f"), 
+    "cyclepath_id" : NumberInt(261), 
+    "tripID" : "5e83ba43ce8af339f2c2f0b9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:41", 
+    "endTime" : "21:54:50"
+},
+{ 
+    "_id" : ObjectId("5ea4113182cbfeac8ae95e40"), 
+    "cyclepath_id" : NumberInt(334), 
+    "tripID" : "5e83ba43ce8af339f2c2f0b9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:41", 
+    "endTime" : "21:54:50"
+},
+{ 
+    "_id" : ObjectId("5ea4113282cbfeac8ae95e46"), 
+    "cyclepath_id" : NumberInt(381), 
+    "tripID" : "5e83ba43ce8af339f2c2f0b9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:41", 
+    "endTime" : "21:54:50"
+},
+{ 
+    "_id" : ObjectId("5ea4113282cbfeac8ae95e47"), 
+    "cyclepath_id" : NumberInt(382), 
+    "tripID" : "5e83ba43ce8af339f2c2f0b9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:41", 
+    "endTime" : "21:54:50"
+},
+{ 
+    "_id" : ObjectId("5ea4113282cbfeac8ae95e48"), 
+    "cyclepath_id" : NumberInt(383), 
+    "tripID" : "5e83ba43ce8af339f2c2f0b9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:41", 
+    "endTime" : "21:54:50"
+},
+{ 
+    "_id" : ObjectId("5ea4113282cbfeac8ae95e49"), 
+    "cyclepath_id" : NumberInt(384), 
+    "tripID" : "5e83ba43ce8af339f2c2f0b9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:41", 
+    "endTime" : "21:54:50"
+},
+{ 
+    "_id" : ObjectId("5ea4113282cbfeac8ae95e4a"), 
+    "cyclepath_id" : NumberInt(385), 
+    "tripID" : "5e83ba43ce8af339f2c2f0b9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:41", 
+    "endTime" : "21:54:50"
+},
+{ 
+    "_id" : ObjectId("5ea41137a2926b8914444a32"), 
+    "cyclepath_id" : NumberInt(367), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea41137a2926b8914444a33"), 
+    "cyclepath_id" : NumberInt(78), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea41137a2926b8914444a34"), 
+    "cyclepath_id" : NumberInt(263), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea41137a2926b8914444a35"), 
+    "cyclepath_id" : NumberInt(319), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea41137a2926b8914444a36"), 
+    "cyclepath_id" : NumberInt(112), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea41137a2926b8914444a37"), 
+    "cyclepath_id" : NumberInt(310), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea41137a2926b8914444a38"), 
+    "cyclepath_id" : NumberInt(362), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea41137a2926b8914444a39"), 
+    "cyclepath_id" : NumberInt(363), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea41137a2926b8914444a3a"), 
+    "cyclepath_id" : NumberInt(324), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea41137a2926b8914444a3b"), 
+    "cyclepath_id" : NumberInt(311), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea41137a2926b8914444a3c"), 
+    "cyclepath_id" : NumberInt(1), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea41137a2926b8914444a3d"), 
+    "cyclepath_id" : NumberInt(258), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea41137a2926b8914444a3e"), 
+    "cyclepath_id" : NumberInt(121), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea41137a2926b8914444a3f"), 
+    "cyclepath_id" : NumberInt(320), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea41137a2926b8914444a40"), 
+    "cyclepath_id" : NumberInt(365), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea41137a2926b8914444a41"), 
+    "cyclepath_id" : NumberInt(359), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea41137a2926b8914444a42"), 
+    "cyclepath_id" : NumberInt(351), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea41137a2926b8914444a43"), 
+    "cyclepath_id" : NumberInt(369), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea41137a2926b8914444a44"), 
+    "cyclepath_id" : NumberInt(246), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea41137a2926b8914444a45"), 
+    "cyclepath_id" : NumberInt(340), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea41137a2926b8914444a46"), 
+    "cyclepath_id" : NumberInt(223), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea41139a2926b8914444a4f"), 
+    "cyclepath_id" : NumberInt(386), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea41139a2926b8914444a50"), 
+    "cyclepath_id" : NumberInt(387), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea41139a2926b8914444a51"), 
+    "cyclepath_id" : NumberInt(388), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea41139a2926b8914444a52"), 
+    "cyclepath_id" : NumberInt(389), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea41139a2926b8914444a53"), 
+    "cyclepath_id" : NumberInt(390), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea41139a2926b8914444a54"), 
+    "cyclepath_id" : NumberInt(391), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea41139a2926b8914444a55"), 
+    "cyclepath_id" : NumberInt(392), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea41139a2926b8914444a56"), 
+    "cyclepath_id" : NumberInt(393), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea4114fc9057d9ca4ab3351"), 
+    "cyclepath_id" : NumberInt(137), 
+    "tripID" : "5e83bc0dce8af339f2c2f0f2", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:19", 
+    "endTime" : "22:12:58"
+},
+{ 
+    "_id" : ObjectId("5ea4114fc9057d9ca4ab3352"), 
+    "cyclepath_id" : NumberInt(30), 
+    "tripID" : "5e83bc0dce8af339f2c2f0f2", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:19", 
+    "endTime" : "22:12:58"
+},
+{ 
+    "_id" : ObjectId("5ea4114fc9057d9ca4ab3353"), 
+    "cyclepath_id" : NumberInt(225), 
+    "tripID" : "5e83bc0dce8af339f2c2f0f2", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:19", 
+    "endTime" : "22:12:58"
+},
+{ 
+    "_id" : ObjectId("5ea4114fc9057d9ca4ab3354"), 
+    "cyclepath_id" : NumberInt(231), 
+    "tripID" : "5e83bc0dce8af339f2c2f0f2", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:19", 
+    "endTime" : "22:12:58"
+},
+{ 
+    "_id" : ObjectId("5ea4114fc9057d9ca4ab3355"), 
+    "cyclepath_id" : NumberInt(265), 
+    "tripID" : "5e83bc0dce8af339f2c2f0f2", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:19", 
+    "endTime" : "22:12:58"
+},
+{ 
+    "_id" : ObjectId("5ea4114fc9057d9ca4ab3356"), 
+    "cyclepath_id" : NumberInt(14), 
+    "tripID" : "5e83bc0dce8af339f2c2f0f2", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:19", 
+    "endTime" : "22:12:58"
+},
+{ 
+    "_id" : ObjectId("5ea4114fc9057d9ca4ab3357"), 
+    "cyclepath_id" : NumberInt(42), 
+    "tripID" : "5e83bc0dce8af339f2c2f0f2", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:19", 
+    "endTime" : "22:12:58"
+},
+{ 
+    "_id" : ObjectId("5ea4114fc9057d9ca4ab3358"), 
+    "cyclepath_id" : NumberInt(271), 
+    "tripID" : "5e83bc0dce8af339f2c2f0f2", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:19", 
+    "endTime" : "22:12:58"
+},
+{ 
+    "_id" : ObjectId("5ea4114fc9057d9ca4ab3359"), 
+    "cyclepath_id" : NumberInt(91), 
+    "tripID" : "5e83bc0dce8af339f2c2f0f2", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:19", 
+    "endTime" : "22:12:58"
+},
+{ 
+    "_id" : ObjectId("5ea41152c9057d9ca4ab336a"), 
+    "cyclepath_id" : NumberInt(394), 
+    "tripID" : "5e83bc0dce8af339f2c2f0f2", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:19", 
+    "endTime" : "22:12:58"
+},
+{ 
+    "_id" : ObjectId("5ea41152c9057d9ca4ab336b"), 
+    "cyclepath_id" : NumberInt(395), 
+    "tripID" : "5e83bc0dce8af339f2c2f0f2", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:19", 
+    "endTime" : "22:12:58"
+},
+{ 
+    "_id" : ObjectId("5ea41152c9057d9ca4ab336c"), 
+    "cyclepath_id" : NumberInt(396), 
+    "tripID" : "5e83bc0dce8af339f2c2f0f2", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:19", 
+    "endTime" : "22:12:58"
+},
+{ 
+    "_id" : ObjectId("5ea41152c9057d9ca4ab336d"), 
+    "cyclepath_id" : NumberInt(397), 
+    "tripID" : "5e83bc0dce8af339f2c2f0f2", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:19", 
+    "endTime" : "22:12:58"
+},
+{ 
+    "_id" : ObjectId("5ea41152c9057d9ca4ab336e"), 
+    "cyclepath_id" : NumberInt(398), 
+    "tripID" : "5e83bc0dce8af339f2c2f0f2", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:19", 
+    "endTime" : "22:12:58"
+},
+{ 
+    "_id" : ObjectId("5ea41152c9057d9ca4ab336f"), 
+    "cyclepath_id" : NumberInt(399), 
+    "tripID" : "5e83bc0dce8af339f2c2f0f2", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:19", 
+    "endTime" : "22:12:58"
+},
+{ 
+    "_id" : ObjectId("5ea41152c9057d9ca4ab3370"), 
+    "cyclepath_id" : NumberInt(400), 
+    "tripID" : "5e83bc0dce8af339f2c2f0f2", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:19", 
+    "endTime" : "22:12:58"
+},
+{ 
+    "_id" : ObjectId("5ea41152c9057d9ca4ab3371"), 
+    "cyclepath_id" : NumberInt(401), 
+    "tripID" : "5e83bc0dce8af339f2c2f0f2", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:19", 
+    "endTime" : "22:12:58"
+},
+{ 
+    "_id" : ObjectId("5ea41152c9057d9ca4ab3372"), 
+    "cyclepath_id" : NumberInt(402), 
+    "tripID" : "5e83bc0dce8af339f2c2f0f2", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:19", 
+    "endTime" : "22:12:58"
+},
+{ 
+    "_id" : ObjectId("5ea41152c9057d9ca4ab3373"), 
+    "cyclepath_id" : NumberInt(403), 
+    "tripID" : "5e83bc0dce8af339f2c2f0f2", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:19", 
+    "endTime" : "22:12:58"
+},
+{ 
+    "_id" : ObjectId("5ea41152c9057d9ca4ab3374"), 
+    "cyclepath_id" : NumberInt(404), 
+    "tripID" : "5e83bc0dce8af339f2c2f0f2", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:19", 
+    "endTime" : "22:12:58"
+},
+{ 
+    "_id" : ObjectId("5ea41152c9057d9ca4ab3375"), 
+    "cyclepath_id" : NumberInt(405), 
+    "tripID" : "5e83bc0dce8af339f2c2f0f2", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:19", 
+    "endTime" : "22:12:58"
+},
+{ 
+    "_id" : ObjectId("5ea41152c9057d9ca4ab3376"), 
+    "cyclepath_id" : NumberInt(406), 
+    "tripID" : "5e83bc0dce8af339f2c2f0f2", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:19", 
+    "endTime" : "22:12:58"
+},
+{ 
+    "_id" : ObjectId("5ea41152c9057d9ca4ab3377"), 
+    "cyclepath_id" : NumberInt(407), 
+    "tripID" : "5e83bc0dce8af339f2c2f0f2", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:19", 
+    "endTime" : "22:12:58"
+},
+{ 
+    "_id" : ObjectId("5ea41152c9057d9ca4ab3378"), 
+    "cyclepath_id" : NumberInt(408), 
+    "tripID" : "5e83bc0dce8af339f2c2f0f2", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:19", 
+    "endTime" : "22:12:58"
+},
+{ 
+    "_id" : ObjectId("5ea41152c9057d9ca4ab3379"), 
+    "cyclepath_id" : NumberInt(409), 
+    "tripID" : "5e83bc0dce8af339f2c2f0f2", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:19", 
+    "endTime" : "22:12:58"
+},
+{ 
+    "_id" : ObjectId("5ea41156df7df81493a944b1"), 
+    "cyclepath_id" : NumberInt(28), 
+    "tripID" : "5e83ba43ce8af339f2c2f0b9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:41", 
+    "endTime" : "21:54:50"
+},
+{ 
+    "_id" : ObjectId("5ea41156df7df81493a944b2"), 
+    "cyclepath_id" : NumberInt(142), 
+    "tripID" : "5e83ba43ce8af339f2c2f0b9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:41", 
+    "endTime" : "21:54:50"
+},
+{ 
+    "_id" : ObjectId("5ea41156df7df81493a944b3"), 
+    "cyclepath_id" : NumberInt(381), 
+    "tripID" : "5e83ba43ce8af339f2c2f0b9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:41", 
+    "endTime" : "21:54:50"
+},
+{ 
+    "_id" : ObjectId("5ea41156df7df81493a944b4"), 
+    "cyclepath_id" : NumberInt(8), 
+    "tripID" : "5e83ba43ce8af339f2c2f0b9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:41", 
+    "endTime" : "21:54:50"
+},
+{ 
+    "_id" : ObjectId("5ea41156df7df81493a944b5"), 
+    "cyclepath_id" : NumberInt(288), 
+    "tripID" : "5e83ba43ce8af339f2c2f0b9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:41", 
+    "endTime" : "21:54:50"
+},
+{ 
+    "_id" : ObjectId("5ea41156df7df81493a944b6"), 
+    "cyclepath_id" : NumberInt(261), 
+    "tripID" : "5e83ba43ce8af339f2c2f0b9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:41", 
+    "endTime" : "21:54:50"
+},
+{ 
+    "_id" : ObjectId("5ea41156df7df81493a944b7"), 
+    "cyclepath_id" : NumberInt(382), 
+    "tripID" : "5e83ba43ce8af339f2c2f0b9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:41", 
+    "endTime" : "21:54:50"
+},
+{ 
+    "_id" : ObjectId("5ea41156df7df81493a944b8"), 
+    "cyclepath_id" : NumberInt(334), 
+    "tripID" : "5e83ba43ce8af339f2c2f0b9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:41", 
+    "endTime" : "21:54:50"
+},
+{ 
+    "_id" : ObjectId("5ea41156df7df81493a944b9"), 
+    "cyclepath_id" : NumberInt(383), 
+    "tripID" : "5e83ba43ce8af339f2c2f0b9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:41", 
+    "endTime" : "21:54:50"
+},
+{ 
+    "_id" : ObjectId("5ea41156df7df81493a944ba"), 
+    "cyclepath_id" : NumberInt(384), 
+    "tripID" : "5e83ba43ce8af339f2c2f0b9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:41", 
+    "endTime" : "21:54:50"
+},
+{ 
+    "_id" : ObjectId("5ea41156df7df81493a944bb"), 
+    "cyclepath_id" : NumberInt(385), 
+    "tripID" : "5e83ba43ce8af339f2c2f0b9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:41", 
+    "endTime" : "21:54:50"
+},
+{ 
+    "_id" : ObjectId("5ea41156df7df81493a944bd"), 
+    "cyclepath_id" : NumberInt(410), 
+    "tripID" : "5e83ba43ce8af339f2c2f0b9", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:46:41", 
+    "endTime" : "21:54:50"
+},
+{ 
+    "_id" : ObjectId("5ea4115a0eb3dd358a9b37fb"), 
+    "cyclepath_id" : NumberInt(367), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea4115a0eb3dd358a9b37fc"), 
+    "cyclepath_id" : NumberInt(78), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea4115a0eb3dd358a9b37fd"), 
+    "cyclepath_id" : NumberInt(263), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea4115a0eb3dd358a9b37fe"), 
+    "cyclepath_id" : NumberInt(319), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea4115a0eb3dd358a9b37ff"), 
+    "cyclepath_id" : NumberInt(112), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea4115a0eb3dd358a9b3800"), 
+    "cyclepath_id" : NumberInt(310), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea4115a0eb3dd358a9b3801"), 
+    "cyclepath_id" : NumberInt(386), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea4115a0eb3dd358a9b3802"), 
+    "cyclepath_id" : NumberInt(387), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea4115a0eb3dd358a9b3803"), 
+    "cyclepath_id" : NumberInt(363), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea4115a0eb3dd358a9b3804"), 
+    "cyclepath_id" : NumberInt(324), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea4115a0eb3dd358a9b3805"), 
+    "cyclepath_id" : NumberInt(311), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea4115a0eb3dd358a9b3806"), 
+    "cyclepath_id" : NumberInt(1), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea4115a0eb3dd358a9b3807"), 
+    "cyclepath_id" : NumberInt(258), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea4115a0eb3dd358a9b3808"), 
+    "cyclepath_id" : NumberInt(121), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea4115a0eb3dd358a9b3809"), 
+    "cyclepath_id" : NumberInt(320), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea4115a0eb3dd358a9b380a"), 
+    "cyclepath_id" : NumberInt(365), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea4115a0eb3dd358a9b380b"), 
+    "cyclepath_id" : NumberInt(388), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea4115a0eb3dd358a9b380c"), 
+    "cyclepath_id" : NumberInt(359), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea4115a0eb3dd358a9b380d"), 
+    "cyclepath_id" : NumberInt(389), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea4115a0eb3dd358a9b380e"), 
+    "cyclepath_id" : NumberInt(390), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea4115a0eb3dd358a9b380f"), 
+    "cyclepath_id" : NumberInt(391), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea4115a0eb3dd358a9b3810"), 
+    "cyclepath_id" : NumberInt(392), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea4115a0eb3dd358a9b3811"), 
+    "cyclepath_id" : NumberInt(351), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea4115a0eb3dd358a9b3812"), 
+    "cyclepath_id" : NumberInt(369), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea4115a0eb3dd358a9b3813"), 
+    "cyclepath_id" : NumberInt(246), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea4115a0eb3dd358a9b3814"), 
+    "cyclepath_id" : NumberInt(393), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea4115a0eb3dd358a9b3815"), 
+    "cyclepath_id" : NumberInt(340), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea4115a0eb3dd358a9b3816"), 
+    "cyclepath_id" : NumberInt(223), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea4115b0eb3dd358a9b3818"), 
+    "cyclepath_id" : NumberInt(411), 
+    "tripID" : "5e83bb59ce8af339f2c2f0dc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:19", 
+    "endTime" : "22:17:31"
+},
+{ 
+    "_id" : ObjectId("5ea4116191ccd385526af19e"), 
+    "cyclepath_id" : NumberInt(224), 
+    "tripID" : "5e83bad1ce8af339f2c2f0cb", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:03", 
+    "endTime" : "21:55:49"
+},
+{ 
+    "_id" : ObjectId("5ea4116191ccd385526af19f"), 
+    "cyclepath_id" : NumberInt(104), 
+    "tripID" : "5e83bad1ce8af339f2c2f0cb", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:03", 
+    "endTime" : "21:55:49"
+},
+{ 
+    "_id" : ObjectId("5ea4116191ccd385526af1a0"), 
+    "cyclepath_id" : NumberInt(281), 
+    "tripID" : "5e83bad1ce8af339f2c2f0cb", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:03", 
+    "endTime" : "21:55:49"
+},
+{ 
+    "_id" : ObjectId("5ea4116191ccd385526af1a1"), 
+    "cyclepath_id" : NumberInt(94), 
+    "tripID" : "5e83bad1ce8af339f2c2f0cb", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:03", 
+    "endTime" : "21:55:49"
+},
+{ 
+    "_id" : ObjectId("5ea4116191ccd385526af1a2"), 
+    "cyclepath_id" : NumberInt(231), 
+    "tripID" : "5e83bad1ce8af339f2c2f0cb", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:03", 
+    "endTime" : "21:55:49"
+},
+{ 
+    "_id" : ObjectId("5ea4116191ccd385526af1a3"), 
+    "cyclepath_id" : NumberInt(232), 
+    "tripID" : "5e83bad1ce8af339f2c2f0cb", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:03", 
+    "endTime" : "21:55:49"
+},
+{ 
+    "_id" : ObjectId("5ea4116191ccd385526af1a4"), 
+    "cyclepath_id" : NumberInt(233), 
+    "tripID" : "5e83bad1ce8af339f2c2f0cb", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:03", 
+    "endTime" : "21:55:49"
+},
+{ 
+    "_id" : ObjectId("5ea41165daae7da8c36f2ba6"), 
+    "cyclepath_id" : NumberInt(84), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea41165daae7da8c36f2ba7"), 
+    "cyclepath_id" : NumberInt(205), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea41165daae7da8c36f2ba8"), 
+    "cyclepath_id" : NumberInt(337), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea41165daae7da8c36f2ba9"), 
+    "cyclepath_id" : NumberInt(207), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea41165daae7da8c36f2baa"), 
+    "cyclepath_id" : NumberInt(208), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea41165daae7da8c36f2bab"), 
+    "cyclepath_id" : NumberInt(209), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea41165daae7da8c36f2bac"), 
+    "cyclepath_id" : NumberInt(210), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea41165daae7da8c36f2bad"), 
+    "cyclepath_id" : NumberInt(211), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea41165daae7da8c36f2bae"), 
+    "cyclepath_id" : NumberInt(243), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea41165daae7da8c36f2baf"), 
+    "cyclepath_id" : NumberInt(213), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea41165daae7da8c36f2bb0"), 
+    "cyclepath_id" : NumberInt(214), 
+    "tripID" : "5e83bc15ce8af339f2c2f0f3", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:54:27", 
+    "endTime" : "22:00:39"
+},
+{ 
+    "_id" : ObjectId("5ea4116f7817b8de490777b4"), 
+    "cyclepath_id" : NumberInt(78), 
+    "tripID" : "5e83bc8cce8af339f2c2f102", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:56:26", 
+    "endTime" : "22:12:38"
+},
+{ 
+    "_id" : ObjectId("5ea4116f7817b8de490777b5"), 
+    "cyclepath_id" : NumberInt(263), 
+    "tripID" : "5e83bc8cce8af339f2c2f102", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:56:26", 
+    "endTime" : "22:12:38"
+},
+{ 
+    "_id" : ObjectId("5ea4116f7817b8de490777b6"), 
+    "cyclepath_id" : NumberInt(319), 
+    "tripID" : "5e83bc8cce8af339f2c2f102", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:56:26", 
+    "endTime" : "22:12:38"
+},
+{ 
+    "_id" : ObjectId("5ea4116f7817b8de490777b7"), 
+    "cyclepath_id" : NumberInt(387), 
+    "tripID" : "5e83bc8cce8af339f2c2f102", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:56:26", 
+    "endTime" : "22:12:38"
+},
+{ 
+    "_id" : ObjectId("5ea4116f7817b8de490777b8"), 
+    "cyclepath_id" : NumberInt(169), 
+    "tripID" : "5e83bc8cce8af339f2c2f102", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:56:26", 
+    "endTime" : "22:12:38"
+},
+{ 
+    "_id" : ObjectId("5ea4116f7817b8de490777b9"), 
+    "cyclepath_id" : NumberInt(61), 
+    "tripID" : "5e83bc8cce8af339f2c2f102", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:56:26", 
+    "endTime" : "22:12:38"
+},
+{ 
+    "_id" : ObjectId("5ea4116f7817b8de490777ba"), 
+    "cyclepath_id" : NumberInt(1), 
+    "tripID" : "5e83bc8cce8af339f2c2f102", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:56:26", 
+    "endTime" : "22:12:38"
+},
+{ 
+    "_id" : ObjectId("5ea4116f7817b8de490777bb"), 
+    "cyclepath_id" : NumberInt(258), 
+    "tripID" : "5e83bc8cce8af339f2c2f102", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:56:26", 
+    "endTime" : "22:12:38"
+},
+{ 
+    "_id" : ObjectId("5ea4116f7817b8de490777bc"), 
+    "cyclepath_id" : NumberInt(121), 
+    "tripID" : "5e83bc8cce8af339f2c2f102", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:56:26", 
+    "endTime" : "22:12:38"
+},
+{ 
+    "_id" : ObjectId("5ea4116f7817b8de490777bd"), 
+    "cyclepath_id" : NumberInt(320), 
+    "tripID" : "5e83bc8cce8af339f2c2f102", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:56:26", 
+    "endTime" : "22:12:38"
+},
+{ 
+    "_id" : ObjectId("5ea4116f7817b8de490777be"), 
+    "cyclepath_id" : NumberInt(389), 
+    "tripID" : "5e83bc8cce8af339f2c2f102", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:56:26", 
+    "endTime" : "22:12:38"
+},
+{ 
+    "_id" : ObjectId("5ea4116f7817b8de490777c0"), 
+    "cyclepath_id" : NumberInt(412), 
+    "tripID" : "5e83bc8cce8af339f2c2f102", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:56:26", 
+    "endTime" : "22:12:38"
+},
+{ 
+    "_id" : ObjectId("5ea41175223c3c902cf4a193"), 
+    "cyclepath_id" : NumberInt(64), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea41175223c3c902cf4a194"), 
+    "cyclepath_id" : NumberInt(367), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea41175223c3c902cf4a195"), 
+    "cyclepath_id" : NumberInt(78), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea41175223c3c902cf4a196"), 
+    "cyclepath_id" : NumberInt(294), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea41175223c3c902cf4a197"), 
+    "cyclepath_id" : NumberInt(224), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea41175223c3c902cf4a198"), 
+    "cyclepath_id" : NumberInt(295), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea41175223c3c902cf4a199"), 
+    "cyclepath_id" : NumberInt(288), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea41175223c3c902cf4a19a"), 
+    "cyclepath_id" : NumberInt(169), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea41175223c3c902cf4a19b"), 
+    "cyclepath_id" : NumberInt(324), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea41175223c3c902cf4a19c"), 
+    "cyclepath_id" : NumberInt(1), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea41175223c3c902cf4a19d"), 
+    "cyclepath_id" : NumberInt(258), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea41175223c3c902cf4a19e"), 
+    "cyclepath_id" : NumberInt(296), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea41175223c3c902cf4a19f"), 
+    "cyclepath_id" : NumberInt(237), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea41175223c3c902cf4a1a0"), 
+    "cyclepath_id" : NumberInt(297), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea41175223c3c902cf4a1a1"), 
+    "cyclepath_id" : NumberInt(121), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea41175223c3c902cf4a1a2"), 
+    "cyclepath_id" : NumberInt(320), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea41175223c3c902cf4a1a3"), 
+    "cyclepath_id" : NumberInt(19), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea41175223c3c902cf4a1a4"), 
+    "cyclepath_id" : NumberInt(314), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea41175223c3c902cf4a1a5"), 
+    "cyclepath_id" : NumberInt(298), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea41175223c3c902cf4a1a6"), 
+    "cyclepath_id" : NumberInt(299), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea41175223c3c902cf4a1a7"), 
+    "cyclepath_id" : NumberInt(318), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea41175223c3c902cf4a1a8"), 
+    "cyclepath_id" : NumberInt(370), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea41175223c3c902cf4a1a9"), 
+    "cyclepath_id" : NumberInt(228), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea41175223c3c902cf4a1aa"), 
+    "cyclepath_id" : NumberInt(221), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea41175223c3c902cf4a1ab"), 
+    "cyclepath_id" : NumberInt(335), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea41175223c3c902cf4a1ac"), 
+    "cyclepath_id" : NumberInt(222), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea41175223c3c902cf4a1ad"), 
+    "cyclepath_id" : NumberInt(304), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea41176223c3c902cf4a1b2"), 
+    "cyclepath_id" : NumberInt(413), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea41176223c3c902cf4a1b3"), 
+    "cyclepath_id" : NumberInt(414), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea41176223c3c902cf4a1b4"), 
+    "cyclepath_id" : NumberInt(415), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea41176223c3c902cf4a1b5"), 
+    "cyclepath_id" : NumberInt(416), 
+    "tripID" : "5e83bad9ce8af339f2c2f0cc", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:49:11", 
+    "endTime" : "22:15:58"
+},
+{ 
+    "_id" : ObjectId("5ea4117a4024ae62b8b1f136"), 
+    "cyclepath_id" : NumberInt(27), 
+    "tripID" : "5e83bb68ce8af339f2c2f0de", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:34", 
+    "endTime" : "21:59:39"
+},
+{ 
+    "_id" : ObjectId("5ea4117a4024ae62b8b1f137"), 
+    "cyclepath_id" : NumberInt(216), 
+    "tripID" : "5e83bb68ce8af339f2c2f0de", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:34", 
+    "endTime" : "21:59:39"
+},
+{ 
+    "_id" : ObjectId("5ea4117a4024ae62b8b1f138"), 
+    "cyclepath_id" : NumberInt(236), 
+    "tripID" : "5e83bb68ce8af339f2c2f0de", 
+    "tripDate" : "31-03-2020", 
+    "startTime" : "21:51:34", 
+    "endTime" : "21:59:39"
+},
+{ 
+    "_id" : ObjectId("5ea4117fe3fbd2cdbe40c2e1"), 
+    "cyclepath_id" : NumberInt(98), 
+    "tripID" : "5e9abbfd0912e4f7f6f2ba88", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:36:11", 
+    "endTime" : "08:52:21"
+},
+{ 
+    "_id" : ObjectId("5ea4117fe3fbd2cdbe40c2e2"), 
+    "cyclepath_id" : NumberInt(224), 
+    "tripID" : "5e9abbfd0912e4f7f6f2ba88", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:36:11", 
+    "endTime" : "08:52:21"
+},
+{ 
+    "_id" : ObjectId("5ea4117fe3fbd2cdbe40c2e3"), 
+    "cyclepath_id" : NumberInt(410), 
+    "tripID" : "5e9abbfd0912e4f7f6f2ba88", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:36:11", 
+    "endTime" : "08:52:21"
+},
+{ 
+    "_id" : ObjectId("5ea4117fe3fbd2cdbe40c2e4"), 
+    "cyclepath_id" : NumberInt(288), 
+    "tripID" : "5e9abbfd0912e4f7f6f2ba88", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:36:11", 
+    "endTime" : "08:52:21"
+},
+{ 
+    "_id" : ObjectId("5ea4117fe3fbd2cdbe40c2e5"), 
+    "cyclepath_id" : NumberInt(104), 
+    "tripID" : "5e9abbfd0912e4f7f6f2ba88", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:36:11", 
+    "endTime" : "08:52:21"
+},
+{ 
+    "_id" : ObjectId("5ea4117fe3fbd2cdbe40c2e6"), 
+    "cyclepath_id" : NumberInt(281), 
+    "tripID" : "5e9abbfd0912e4f7f6f2ba88", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:36:11", 
+    "endTime" : "08:52:21"
+},
+{ 
+    "_id" : ObjectId("5ea4117fe3fbd2cdbe40c2e7"), 
+    "cyclepath_id" : NumberInt(325), 
+    "tripID" : "5e9abbfd0912e4f7f6f2ba88", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:36:11", 
+    "endTime" : "08:52:21"
+},
+{ 
+    "_id" : ObjectId("5ea4117fe3fbd2cdbe40c2e8"), 
+    "cyclepath_id" : NumberInt(392), 
+    "tripID" : "5e9abbfd0912e4f7f6f2ba88", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:36:11", 
+    "endTime" : "08:52:21"
+},
+{ 
+    "_id" : ObjectId("5ea4117fe3fbd2cdbe40c2e9"), 
+    "cyclepath_id" : NumberInt(245), 
+    "tripID" : "5e9abbfd0912e4f7f6f2ba88", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:36:11", 
+    "endTime" : "08:52:21"
+},
+{ 
+    "_id" : ObjectId("5ea4117fe3fbd2cdbe40c2ea"), 
+    "cyclepath_id" : NumberInt(246), 
+    "tripID" : "5e9abbfd0912e4f7f6f2ba88", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:36:11", 
+    "endTime" : "08:52:21"
+},
+{ 
+    "_id" : ObjectId("5ea4117fe3fbd2cdbe40c2eb"), 
+    "cyclepath_id" : NumberInt(222), 
+    "tripID" : "5e9abbfd0912e4f7f6f2ba88", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:36:11", 
+    "endTime" : "08:52:21"
+},
+{ 
+    "_id" : ObjectId("5ea41180e3fbd2cdbe40c2f0"), 
+    "cyclepath_id" : NumberInt(417), 
+    "tripID" : "5e9abbfd0912e4f7f6f2ba88", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:36:11", 
+    "endTime" : "08:52:21"
+},
+{ 
+    "_id" : ObjectId("5ea41180e3fbd2cdbe40c2f1"), 
+    "cyclepath_id" : NumberInt(418), 
+    "tripID" : "5e9abbfd0912e4f7f6f2ba88", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:36:11", 
+    "endTime" : "08:52:21"
+},
+{ 
+    "_id" : ObjectId("5ea41180e3fbd2cdbe40c2f2"), 
+    "cyclepath_id" : NumberInt(419), 
+    "tripID" : "5e9abbfd0912e4f7f6f2ba88", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:36:11", 
+    "endTime" : "08:52:21"
+},
+{ 
+    "_id" : ObjectId("5ea41180e3fbd2cdbe40c2f3"), 
+    "cyclepath_id" : NumberInt(420), 
+    "tripID" : "5e9abbfd0912e4f7f6f2ba88", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:36:11", 
+    "endTime" : "08:52:21"
+},
+{ 
+    "_id" : ObjectId("5ea411876408b77835e10668"), 
+    "cyclepath_id" : NumberInt(112), 
+    "tripID" : "5e9abbbeed1548dd20d3a6a3", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:35:08", 
+    "endTime" : "08:41:31"
+},
+{ 
+    "_id" : ObjectId("5ea411876408b77835e10669"), 
+    "cyclepath_id" : NumberInt(310), 
+    "tripID" : "5e9abbbeed1548dd20d3a6a3", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:35:08", 
+    "endTime" : "08:41:31"
+},
+{ 
+    "_id" : ObjectId("5ea411876408b77835e1066a"), 
+    "cyclepath_id" : NumberInt(236), 
+    "tripID" : "5e9abbbeed1548dd20d3a6a3", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:35:08", 
+    "endTime" : "08:41:31"
+},
+{ 
+    "_id" : ObjectId("5ea411876408b77835e1066b"), 
+    "cyclepath_id" : NumberInt(420), 
+    "tripID" : "5e9abbbeed1548dd20d3a6a3", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:35:08", 
+    "endTime" : "08:41:31"
+},
+{ 
+    "_id" : ObjectId("5ea411886408b77835e10670"), 
+    "cyclepath_id" : NumberInt(421), 
+    "tripID" : "5e9abbbeed1548dd20d3a6a3", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:35:08", 
+    "endTime" : "08:41:31"
+},
+{ 
+    "_id" : ObjectId("5ea411886408b77835e10671"), 
+    "cyclepath_id" : NumberInt(422), 
+    "tripID" : "5e9abbbeed1548dd20d3a6a3", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:35:08", 
+    "endTime" : "08:41:31"
+},
+{ 
+    "_id" : ObjectId("5ea411886408b77835e10672"), 
+    "cyclepath_id" : NumberInt(423), 
+    "tripID" : "5e9abbbeed1548dd20d3a6a3", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:35:08", 
+    "endTime" : "08:41:31"
+},
+{ 
+    "_id" : ObjectId("5ea411886408b77835e10673"), 
+    "cyclepath_id" : NumberInt(424), 
+    "tripID" : "5e9abbbeed1548dd20d3a6a3", 
+    "tripDate" : "18-04-2020", 
+    "startTime" : "08:35:08", 
+    "endTime" : "08:41:31"
+}
+]
